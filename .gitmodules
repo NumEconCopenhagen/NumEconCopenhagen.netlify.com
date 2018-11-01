@@ -1,0 +1,3 @@
+[submodule "themes/NumEconCopenhagenTheme"]
+	path = themes/NumEconCopenhagenTheme
+	url = https://github.com/NumEconCopenhagen/NumEconCopenhagenTheme.git

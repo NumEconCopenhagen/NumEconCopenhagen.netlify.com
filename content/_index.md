@@ -2,70 +2,82 @@
 title: "Welcome"
 ---
 
-# Quam Adoni urbes Aetnam rex et pati
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master)
 
-## Campos ad stipite fallit coeptus insons precor
+# Course Plan
 
-Lorem markdownum sepulcrum satiata me transire patuit. Quid non a exploratis
-urbe nimium, tum animique agit signum erit contentus hunc. Arvum claudor.
-Dolentibus tarda ignaram Phinea sorores limosoque phocae consuetaque quod
-credite pulchra Phoebique huc tamen, genitoris. Ut siquem rubent momordi; dat
-vero ipse incerta coniugis!
+[Overview](https://github.com/NumEconCopenhagen/lectures-2019/wiki/Course-Plan)
 
-Veneror me acuto pedes abscedit Andromedan tanta, ignem ara, non tristia centum.
-Fulgentem retinere cum **istas**; silvas tenet; dicenda hinnitibus eratque
-tantaeque. Dissimilisque [fuit](http://www.sedaccessit.com/undis-prohibent)
-lingua, saucia altae rexerat est, *Minos misit manifesta*, super Sunt etiam
-Troianae colunt Iphide.
+[Course plan 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=0)
 
+[Deadlines 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=1691428044)
 
+# Guides
 
-{{< highlight go "linenos=table" >}}
-var gui_prebinding_boot = matrix(clip_archive_fios.imOspf.pointSimplex(
-        analyst, domain, 3), ad_dimm_emulation);
-if (5) {
-    frozen_lossless.cisc /= minimize;
-} else {
-    gateway = volume_thin;
-    programming.osiTask += framework;
-}
-var systemDhcpNvram = 4;
-hard -= fileSpeed.freeware(powerpoint(character_ole_data), iso_mebibyte) +
-        case_docking.state(hardTypeWindows + ugc, 63 / 5, cybercrime);
-{{< / highlight >}}
+Installation and work-flow:
 
+1. [Installing Python and more](https://github.com/NumEconCopenhagen/lectures-2019/wiki/Installing-Python-and-more)
+2. Jupyter Notebook
+3. [VSCode (basic)](https://github.com/NumEconCopenhagen/lectures-2019/wiki/VS-Code-(basic))
+4. Git in VSCode
+5. Debugging in VSCode (debugging)
 
-Simul adgrediare tecta, cavernis torus, cicatrix verborum o potitur convicia
-laudavit acceptum virgo servare materna perstant, reget! Pars picum pulvinaribus
-Myrrha, celsoque, telluris forsitan: nec pectora: e in responsa. Ultima ima
-Diana, plenis ad subita evanida iuvenes iuventa tympana; sua subiecta quae.
-Cohibentem cava.
+Other:
 
-## Dilectos viribus igitur relictus nunc poterat movit
+1. Searching for answers (using online documentation, Google, Stackoverflow etc.)
+2. Asking questions (using GitHUb issues)
 
-Remansit coniugium secundi laudataque erit dixit flentibus, tolle arma choreas,
-unicus latum, nuribus Psophidaque pluma Bacchus. Coeperunt Trachasque honos
-orgia, margine inquit ingenti **non**: sit ripa, ora. Pecudes faveant vela genis
-invita; *Dolopum* monimenta illius praesepe coniunctior. Maduere navit
-**utrimque Cycnus**. Et est seque flexos iuvencos Rhodiae intravit et socios
-vidistis *nostra*: in.
+Cheatsheet for VSCode
 
-> Certis genitis aequoreos fallax esset quo usus in vobis vestros superest
-> dicta. Meliora sua amne favet celerem, nescio quam tribuere cervice
-> **femina**, dextramque, iuvat erat et tulisse. Dictis longo vellera, iussorum
-> servo [fidissima verba](http://obruitinquit.com/contraque.html), Argo furit
-> ventorum. Boote adspiceres et vale metalla Iunonia pretium, visa
-> [sui](http://obortas-laboriferi.io/nocent). Cum illi sanguine amorem comites
-> dabat, tuos, in spatio fera faciemque resecare ex
-> [nulla](http://aequoreas.com/numinehelicen.html) raptor?
+# Course Description
 
-Dixerat infamis igitur Myrrha Athamanta multo velocior, erat, tuba ara vertit
-cupiens de nihil. Ut sine, difficilis aethera, ore nulla garrulitas Ixionis
-ignes cum saepe; sua potest sumpto.
+[Course description on kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019) (with exam details etc.)
 
-Paulum excussit praebebat corpus [corpora
-rictus](http://nec-velut.net/cognita.aspx). Fateor de quod [totum
-nascuntur](http://odereenim.com/quofruges.aspx) ora est sed tum! Aethera
-volucris, sunt modo illa verso illa, vertitur hinc sub rapta [Veneri
-lunares](http://nubibus.com/) inprovisoque habet adpellatque quod. Victa
-**guttae et** vim Aiacis simplex, dei orbem virginis ille.
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically.  
+
+The course requires no prior experience with programming.
+
+The first part of the course introduces you to programming using the general-purpose Python language. You will learn to write conditional statements, loops, functions, and classes, and to print results and produce static and interactive plots. You will learn to solve simple numerical optimization problems, and draw random number and run simulations. You will learn to test, debug and document your code, and use online communities proactively when writing code. 
+
+The second part of the course give you a brief introduction on how to import data from offline and online sources, structure it, and produce central descriptive statistics. You will learn to estimate simple statistical models on your data.
+
+The third part of the course introduce you to the concept of a numerical algorithm. You will learn how to write simple searching, sorting and optimization algorithms. You will learn to solve linear algebra problems, solve non-linear equations numerically and symbolically, find fixed points, and solve complicated numerical optimization problems relying on function approximation.
+
+You will get hands-on experience with applying the above techniques to solve well-known microeconomic and macroeconomic problems from the core bachelor courses. Specifically, you will work with both a small data analysis project, and a larger model analysis project based on a well-known economic model.
+
+While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
+
+# Learning Outcomes
+
+**Knowledge:**
+* Describe the differences between data types (e.g.  strings, booleans, integers and floats)
+* Describe the differences between data containers (e.g. lists, dicts and arrays)
+* Explain the use of conditionals (if-elseif-else)
+* Explain the use of loops (for, while, continue, break)
+* Explain the use of functions, methods and classes
+* Describe the difference between views and copies of objects
+* Explain how to use (pseudo) random numbers
+* Explain the notation of numerical algorithms
+
+**Skills:**
+* Setup a Python enviroment
+* Write Python scripts, functions and notebooks
+* Apply error handling and debugging techniques
+* Use and write code documentation
+* Print results and make static and interactive plots
+* Import and export of data from and to csv, excel and online databases
+* Perform simple descriptive analysis  of numerical data
+* Use numerical equation solvers
+*	Use symbolic equation solvers
+* Use numerical optimizers
+* Formulate numerical algorithms from mathematical problems
+
+**Competencies:**
+
+* Work collaboratively on code projects
+* Use online communities to find existing code and get help
+* Solve mathematical problems numerically
+* Solve well-known economic problems numerically
+* Perform numerical simulation of stochastic models
+* Present and discuss results of a numerical analysis
+* Learn new programming tools and languages

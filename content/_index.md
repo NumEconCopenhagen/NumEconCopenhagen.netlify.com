@@ -50,6 +50,7 @@ While the course only focus on programming in Python, you will also be equipped 
 # Learning Outcomes
 
 **Knowledge:**
+
 * Describe the differences between data types (e.g.  strings, booleans, integers and floats)
 * Describe the differences between data containers (e.g. lists, dicts and arrays)
 * Explain the use of conditionals (if-elseif-else)
@@ -60,6 +61,7 @@ While the course only focus on programming in Python, you will also be equipped 
 * Explain the notation of numerical algorithms
 
 **Skills:**
+
 * Setup a Python enviroment
 * Write Python scripts, functions and notebooks
 * Apply error handling and debugging techniques
@@ -68,7 +70,7 @@ While the course only focus on programming in Python, you will also be equipped 
 * Import and export of data from and to csv, excel and online databases
 * Perform simple descriptive analysis  of numerical data
 * Use numerical equation solvers
-*	Use symbolic equation solvers
+* Use symbolic equation solvers
 * Use numerical optimizers
 * Formulate numerical algorithms from mathematical problems
 

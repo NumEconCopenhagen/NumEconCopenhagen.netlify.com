@@ -6,7 +6,7 @@ title: "Welcome"
 
 # Course Plan
 
-[Overview](https://github.com/NumEconCopenhagen/lectures-2019/wiki/Course-Plan)
+[Overview](guides/course-plan)
 
 [Course plan 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=0)
 
@@ -16,9 +16,9 @@ title: "Welcome"
 
 Installation and work-flow:
 
-1. [Installing Python and more](https://github.com/NumEconCopenhagen/lectures-2019/wiki/Installing-Python-and-more)
+1. [Installing Python and more](guides/python-installation)
 2. Jupyter Notebook
-3. [VSCode (basic)](https://github.com/NumEconCopenhagen/lectures-2019/wiki/VS-Code-(basic))
+3. [VSCode (basic)](guides/vscode-basics)
 4. Git in VSCode
 5. Debugging in VSCode (debugging)
 

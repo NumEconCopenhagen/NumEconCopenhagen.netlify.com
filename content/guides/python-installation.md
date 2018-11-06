@@ -11,6 +11,7 @@ To follow this course you need:
 # Step 1: Install Anaconda and VSCode
 
 **Step 1a: Main**
+
 1. Download Anaconda Python 3.6 from <https://www.anaconda.com/download/>
 2. Run installer
 3. When asked: Install Microsoft VSCode

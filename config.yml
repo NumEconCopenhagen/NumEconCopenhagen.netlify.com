@@ -11,6 +11,9 @@ menu:
       url: "/lectures/"
       weight: 20
   menu2:
+    - name: "Course Plan"
+      url: "/course-plan/"
+  menu3:
     - name: "Github"
       url: "https://github.com/NumEconCopenhagen"
       weight: 10

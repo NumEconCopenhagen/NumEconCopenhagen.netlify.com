@@ -11,3 +11,4 @@ This is repository is the workhorse of the webpage numeconcopenhagen.netlify.com
 - [ ] Add guide for _Debugging in VSCode (debugging)_
 - [ ] Add guide for _Searching for answers (using online documentation, Google, Stackoverflow etc.)_
 - [ ] Add guide for _Asking questions (using GitHUb issues)_
+- [ ] Add guide for _Basic terminal commands_

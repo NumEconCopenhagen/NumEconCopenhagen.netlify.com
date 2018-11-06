@@ -1,13 +1,22 @@
 baseURL: "http://www.example.com"
-title: "NumEconCopenhagen"
+title: "NumEconCPH"
 theme: "NumEconCopenhagenTheme"
 
 menu:
   menu1:
-    - name: "Kunet"
-      url: "https://google.dk"
+    - name: "Exercises"
+      url: "/exercises/"
+      weight: 10
+    - name: "Lectures"
+      url: "/lectures/"
+      weight: 20
   menu2:
-    - name: "Absalon"
-      url: "/"
+    - name: "Github"
+      url: "https://github.com/NumEconCopenhagen"
+      weight: 10
+    - name: "NumEcon"
+      url: "https://github.com/NumEconCopenhagen/NumEcon"
+      weight: 20
+
 
 ignorefiles: []

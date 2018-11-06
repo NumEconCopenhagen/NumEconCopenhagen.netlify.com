@@ -16,9 +16,9 @@ title: "Welcome"
 
 Installation and work-flow:
 
-1. [Installing Python and more](guides/python-installation)
-2. Jupyter Notebook
-3. [VSCode (basic)](guides/vscode-basics)
+1. [Installing Python and more](/guides/python-installation)
+2. [Jupyter Notebook](/guides/jupyter-notebook)
+3. [VSCode (basic)](/guides/vscode-basics)
 4. Git in VSCode
 5. Debugging in VSCode (debugging)
 

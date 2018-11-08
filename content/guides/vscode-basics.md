@@ -11,8 +11,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
 
       {{< highlight python "linenos=table" >}}
       message = 'hello world'
-      print(message)
-      {{< / highlight >}}
+      print(message) {{< / highlight >}}
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal" + <kbd>Enter</kbd>
 6. **Interactive session**: 

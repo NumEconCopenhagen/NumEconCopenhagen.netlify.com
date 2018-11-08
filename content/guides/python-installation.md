@@ -18,13 +18,16 @@ To follow this course you need:
 
 **Step 1b: Extensions for Anaconda** (optional)
 
-1. Open "Anaconda Prompt" (you might need to run as administrator)
+1. Open "Anaconda Prompt" (you might need to run it as administrator)
 * Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
 * Run: `jupyter notebook` (this opens a browser window)
 * In the "Nbextensions" tab I have choosen:
 
-    * Collapsible Headings 
+    * Code prettify
     * Codefolding (*can give problems with the gutter*, add delay in settings)
+    * Collapsible Headings     
+    * Equation Auto Numbering
+    * Execture Time
     * Move selected cell
     * Split Cells Notebook
     * Table of Contents(2)
@@ -33,13 +36,14 @@ To follow this course you need:
 
 1. Open VSCode
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-3. Run "Extensions: Install Extensions" and install:
+3. Write "Extensions: Install Extensions"
+4. Install the following extensions:
 
     * Anaconda Extensions Pack
     * Python
 
 4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-5. Run "Python: Select Interpreter" and choose the Anaconda distribution you installed above
+5. Write "Python: Select Interpreter", hit enter, and choose the Anaconda distribution you installed above
 6. If on Windows: Run "Terminal: Select Default Shell" and choose "Command Prompt"
 
 # Step 2: Git

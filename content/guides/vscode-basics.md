@@ -7,10 +7,10 @@ title: "VS Code (basics)"
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> write FILENAME.py (e.g. test.py)
 4. **Write code**: Write the following line of code:
 
-   {{< highlight python "linenos=table" >}}
-   message = 'hello world'
-   print(message)
-   {{< / highlight >}}
+{{< highlight python "linenos=table" >}}
+message = 'hello world'
+print(message)
+{{< / highlight >}}
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + Python: Run Python File in Terminal 
 6. **Interactive session**: 

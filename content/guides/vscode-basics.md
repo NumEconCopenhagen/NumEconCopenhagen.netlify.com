@@ -3,17 +3,17 @@ title: "VS Code (basics)"
 ---
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>+<kbd>O</kbd>
-*. **Make new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
-*. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> write FILENAME.py (e.g. test.py)
-*. **Write code**: Write the following line of code:
+2. **Make new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
+3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> write FILENAME.py (e.g. test.py)
+4. **Write code**: Write the following line of code:
 
-{{< highlight python "linenos=table" >}}
-message = 'hello world'
-print(message)
-{{< / highlight >}}
+   {{< highlight python "linenos=table" >}}
+   message = 'hello world'
+   print(message)
+   {{< / highlight >}}
 
-*. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + Python: Run Python File in Terminal 
-*. **Interactive session**: 
+5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + Python: Run Python File in Terminal 
+6. **Interactive session**: 
    
    1. Move cursor to first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
    *. Move cursor to second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd>
@@ -22,7 +22,7 @@ print(message)
    
    Note: You can also select multiple lines to run.
 
-*. **Check for errors**: 
+7. **Check for errors**: 
    
    1. Add the following line of code
    
@@ -30,10 +30,10 @@ print(message)
    print(messages)
    {{< / highlight >}}
 
-   *. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
-   *. Find next error: <kbd>F8</kbd> 
+   2. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
+   3. Find next error: <kbd>F8</kbd> 
    
-*. **Short cuts for changing view:**
+8. **Short cuts for changing view:**
   
     * New window: <kbd>Ctrl</kbd+<kbd>N</kbd>
     * Toggle window: <kbd>Ctrl</kbd>+<kbd>tab</kbd>
@@ -42,7 +42,7 @@ print(message)
     * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
     * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Z</kbd> 
   
-*. **Short cuts for smart editing:**
+9. **Short cuts for smart editing:**
 
     * Move current line: <kbd>Alt</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
     * Copy current line: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
@@ -57,4 +57,5 @@ print(message)
     * Select columns: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>
     
 **Change settings** <kbd>Ctrl</kbd>+<kbd>,</kbd>
+
 **Change short cuts?** <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>S</kbd>

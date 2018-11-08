@@ -14,7 +14,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
       print(message)
       {{< / highlight >}}
 
-5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal"
+5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal" + <kbd>Enter</kbd>
 6. **Interactive session**: 
    
    1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
@@ -34,15 +34,15 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
       print(messages)
       {{< / highlight >}}
 
-   2. Save file, <kbd>Ctrl</kbd>+<kbd>S</kbd>
+   2. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
    3. Find all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
    4. Find next error: <kbd>F8</kbd> 
    
 8. **Short cuts for changing view:**
   
-    * New window: <kbd>Ctrl</kbd+<kbd>N</kbd>
-    * Open window: <kbd>Ctrl</kbd+<kbd>F4</kbd>
-    * Close window: <kbd>Ctrl</kbd+<kbd>O</kbd>
+    * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>
+    * Open window: <kbd>Ctrl</kbd>+<kbd>F4</kbd>
+    * Close window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
     * Toggle window: <kbd>Ctrl</kbd>+<kbd>tab</kbd>
     * Locate object: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>
     * Go to object: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)

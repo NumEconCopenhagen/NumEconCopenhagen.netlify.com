@@ -5,7 +5,7 @@ title: "VS Code (basics)"
 This is a short guide on how to use **Visual Studio Code** (VSCode).
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
-2. **Make new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
+2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> (write e.g. test.py)
 4. **Write code**: Write the following lines of code:
 

@@ -14,12 +14,12 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
       print(message)
       {{< / highlight >}}
 
-5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal" + <kbd>Enter</kbd>
+5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal` + <kbd>Enter</kbd>
 6. **Interactive session**: 
    
    1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
    2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
-   3. In the terminal window write "print(message)" and run with <kbd>Enter</kbd>
+   3. In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
    4. Done? Kill the terminal by pressing the trash can icon
    
       *Note:* You can also select multiple lines to run.

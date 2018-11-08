@@ -9,33 +9,32 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> (write e.g. test.py)
 4. **Write code**: Write the following lines of code:
 
-      {{< highlight python "linenos=table" >}}
+      {{< highlight python >}}
       message = 'hello world'
       print(message) {{< / highlight >}}
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal" + <kbd>Enter</kbd>
 6. **Interactive session**: 
    
-   1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
-   2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd>
-   3. In the terminal window write "print(message)" and run with <kbd>Enter</kbd>
-   4. Done? Kill the terminal by pressing the trash can icon
+   a. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
+   b. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
+   c. In the terminal window write "print(message)" and run with <kbd>Enter</kbd>
+   d. Done? Kill the terminal by pressing the trash can icon
    
       *Note:* You can also select multiple lines to run.
 
 7. **Check for errors**: 
    
-   1. Add a third line of code:
+   a. Add a third line of code:
    
       {{< highlight python "linenos=table" >}}
       message = 'hello world'
       print(message)      
-      print(messages)
-      {{< / highlight >}}
+      print(messages) {{< / highlight >}}
 
-   2. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
-   3. Find all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
-   4. Find next error: <kbd>F8</kbd> 
+   b. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
+   c. Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
+   d. Find next error: <kbd>F8</kbd> 
    
 8. **Short cuts for changing view:**
   
@@ -43,8 +42,9 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
     * Open window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
     * Close window: <kbd>Ctrl</kbd>+<kbd>F4</kbd>
     * Toggle window: <kbd>Ctrl</kbd>+<kbd>tab</kbd>
-    * Locate object: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>
-    * Go to object: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)
+    * Locate symbol: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>
+    * Go to symbol: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)
+    * Go to line: <kbd>Ctrl</kbd>+<kbd>G</kbd>
     * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
     * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Z</kbd> 
   

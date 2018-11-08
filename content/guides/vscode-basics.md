@@ -22,7 +22,7 @@ This is a short guide to using Visual Studio Code (VSCode).
    3. In the terminal window write "print(message)" + run with <kbd>Enter</kbd>
    4. Done? Kill terminal by pressing the trash can icon
    
-   Note: You can also select multiple lines to run.
+      *Note:* You can also select multiple lines to run.
 
 7. **Check for errors**: 
    

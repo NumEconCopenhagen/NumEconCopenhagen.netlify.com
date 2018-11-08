@@ -1,5 +1,5 @@
 ---
-title: "Installing Python and more"
+title: "Installing Python and VSCode"
 ---
 
 To follow this course you need:

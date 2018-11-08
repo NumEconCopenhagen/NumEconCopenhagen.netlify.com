@@ -1,5 +1,5 @@
 ---
-title: "VS Code (basics)"
+title: "VSCode (basics)"
 ---
 
 This is a short guide on how to use **Visual Studio Code** (VSCode).

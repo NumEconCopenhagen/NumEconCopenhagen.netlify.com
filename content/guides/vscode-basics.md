@@ -2,7 +2,7 @@
 title: "VS Code (basics)"
 ---
 
-This is a short guide to using Visual Studio Code (VSCode).
+This is a short guide on how to use **Visual Studio Code** (VSCode).
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
 2. **Make new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
@@ -17,18 +17,20 @@ This is a short guide to using Visual Studio Code (VSCode).
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + "Python: Run Python File in Terminal"
 6. **Interactive session**: 
    
-   1. Move cursor to first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
-   2. Move cursor to second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd>
-   3. In the terminal window write "print(message)" + run with <kbd>Enter</kbd>
-   4. Done? Kill terminal by pressing the trash can icon
+   1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
+   2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd>
+   3. In the terminal window write "print(message)" and run with <kbd>Enter</kbd>
+   4. Done? Kill the terminal by pressing the trash can icon
    
       *Note:* You can also select multiple lines to run.
 
 7. **Check for errors**: 
    
-   1. Add the following line of code
+   1. Add a third line of code:
    
       {{< highlight python "linenos=table" >}}
+      message = 'hello world'
+      print(message)      
       print(messages)
       {{< / highlight >}}
 

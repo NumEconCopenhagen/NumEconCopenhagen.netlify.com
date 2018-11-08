@@ -41,8 +41,8 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
 8. **Short cuts for changing view:**
   
     * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>
-    * Open window: <kbd>Ctrl</kbd>+<kbd>F4</kbd>
-    * Close window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
+    * Open window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
+    * Close window: <kbd>Ctrl</kbd>+<kbd>F4</kbd>
     * Toggle window: <kbd>Ctrl</kbd>+<kbd>tab</kbd>
     * Locate object: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>O</kbd>
     * Go to object: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)

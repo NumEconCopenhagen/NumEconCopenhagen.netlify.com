@@ -48,7 +48,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
     * Go to symbol: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)
     * Go to line: <kbd>Ctrl</kbd>+<kbd>G</kbd>
     * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
-    * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd> <kbd>Z</kbd> 
+    * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd>,<kbd>Ctrl</kbd>+<kbd>Z</kbd> 
   
 9. **Short cuts for smart editing:**
 

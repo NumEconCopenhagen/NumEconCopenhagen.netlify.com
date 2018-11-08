@@ -1,5 +1,5 @@
 ---
-title: "VS Code (git)"
+title: "VSCode (git)"
 ---
 
 This is a short guide on how to use **git** in **Visual Studio Code** (VSCode).

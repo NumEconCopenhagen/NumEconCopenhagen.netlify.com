@@ -18,7 +18,7 @@ Installation and work-flow:
 
 1. [Installing Python and VSCode](/guides/python-installation)
 2. [Jupyter Notebook](/guides/jupyter-notebook)
-3. [VSCode (basic)](/guides/vscode-basics)
+3. [Basic VSCode](/guides/vscode-basics)
 4. [Git in VSCode](/guides/vscode-git)
 5. [Debugging in VSCode](/guides/vscode-debug)
 
@@ -26,8 +26,8 @@ Other:
 
 1. Searching for answers (using online documentation, Google, Stackoverflow etc.)
 2. Asking questions (using GitHUb issues)
-
-Cheatsheet for VSCode
+3. Markdown
+4. Binder
 
 # Course Description
 

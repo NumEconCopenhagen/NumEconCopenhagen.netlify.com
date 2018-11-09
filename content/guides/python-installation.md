@@ -12,8 +12,8 @@ To follow this course you need:
 
 **Step 1a: Main**
 
-1. Download Anaconda Python 3.6 from <https://www.anaconda.com/download/>
-2. Run the installer
+1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
+2. Run the installer (custom settings are fine)
 3. When asked: Install Microsoft VSCode
 
 **Step 1b: Extensions for Anaconda** (optional)
@@ -36,7 +36,7 @@ To follow this course you need:
 
 1. Open VSCode
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-3. Run "Extensions: Install Extensions"
+3. Run `Extensions: Install Extensions`
 4. Search for and install the following extensions:
 
     * Anaconda Extensions Pack
@@ -45,7 +45,7 @@ To follow this course you need:
 
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
 6. Run `Python: Select Interpreter` and choose the Anaconda distribution you installed above
-7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run "Terminal: Select Default Shell" and choose "Command Prompt"
+7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `Terminal: Select Default Shell` and choose `Command Prompt`
 
 # Step 2: Git
 

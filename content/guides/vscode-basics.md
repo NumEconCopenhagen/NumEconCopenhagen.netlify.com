@@ -2,7 +2,7 @@
 title: "VSCode (basics)"
 ---
 
-This is a short guide on how to use **Visual Studio Code** (VSCode).
+This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and the only use Jupyter Notebooks for presenting the results.
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
 2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
@@ -26,7 +26,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
 
 7. **Check for errors**: 
    
-   1. Add some extra line of code:
+   1. Add a third line of code:
    
       {{< highlight python "linenos=table" >}}
       message = 'hello world'

@@ -12,7 +12,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
     2. **Over**: <kbd>F10</kbd> (go over functions)  
     3. **Out**: <kbd>Shift</kbd>+<kbd>F11</kbd> (continue until current function is finished)
   
-4. **Continue:** <kbd>F5</kbd>
+4. **Continue:** <kbd>F5</kbd> (to next breakpoint)
 5. **Stop:** <kbd>Shift</kbd>+<kbd>F5</kbd>
 
 **Tutorial:**

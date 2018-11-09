@@ -14,7 +14,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
       print(message)
       {{< / highlight >}}
 
-5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal` + <kbd>Enter</kbd>
+5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 6. **Interactive session**: 
    
    1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
@@ -26,7 +26,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode).
 
 7. **Check for errors**: 
    
-   1. Add a third line of code:
+   1. Add some extra line of code:
    
       {{< highlight python "linenos=table" >}}
       message = 'hello world'

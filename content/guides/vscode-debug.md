@@ -8,9 +8,9 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 2. **Start:** <kbd>F5</kbd>
 3. **Steps:** 
 
-  1. **Into**: <kbd>F11</kbd> (go into functions)
-  2. **Over**: <kbd>F10</kbd> (go over functions)  
-  3. **Out**: <kbd>Shift</kbd>+<kbd>F11</kbd> (continue until current function is finished)
+    1. **Into**: <kbd>F11</kbd> (go into functions)
+    2. **Over**: <kbd>F10</kbd> (go over functions)  
+    3. **Out**: <kbd>Shift</kbd>+<kbd>F11</kbd> (continue until current function is finished)
   
 4. **Continue:** <kbd>F5</kbd>
 5. **Stop:** <kbd>Shift+F5</kbd>
@@ -43,11 +43,8 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 2. Add breakpoint on line 13
 3. Start debugger
 4. Experiment with stepping into, over and out
-
-**Open debug infomation**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
-
-**Open debug console**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> (you can write terminal commands here)
+5. Notice that the "Variables" window show the current values of all variables
+6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> (you can write terminal commands here)
 
 **Conditional breakpoint:** Right click on breakpoint (in list or by line number)
-
 **Bonus info:** It also stops at errors.

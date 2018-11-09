@@ -2,7 +2,7 @@
 title: "VSCode (debugging)"
 ---
 
-This is a short guide on how to use the **debugger** in **Visual Studio Code** (VSCode).
+This is a short guide on how to use the **debugger** in **Visual Studio Code** (VSCode). The debugger allows you to stop the execution of your program at a breakpoint you choose, and then go through the code line-by-line to investigate the behavior of your program in detail. This is very beneficial for locating bugs (errors).
 
 1. **Add breakpoint:** <kbd>F9</kbd> (*not on empty line*)
 2. **Start:** <kbd>F5</kbd>
@@ -13,7 +13,7 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
     3. **Out**: <kbd>Shift</kbd>+<kbd>F11</kbd> (continue until current function is finished)
   
 4. **Continue:** <kbd>F5</kbd>
-5. **Stop:** <kbd>Shift+F5</kbd>
+5. **Stop:** <kbd>Shift</kbd>+<kbd>F5</kbd>
 
 **Tutorial:**
 
@@ -40,11 +40,14 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
     print(a,b)
     {{< / highlight >}}
 
-2. Add breakpoint on line 13
+2. Add breakpoint on line 11
 3. Start debugger
 4. Experiment with stepping into, over and out
 5. Notice that the "Variables" window show the current values of all variables
-6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> (you can write terminal commands here)
+6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> 
+7. Try writing e.g. `a+2`
 
-**Conditional breakpoint:** Right click on breakpoint (in list or by line number)
-**Bonus info:** It also stops at errors.
+**Bonus info:** 
+
+1. It also stops at errors.
+2. Breakpoints can be made conditional (right click on it in list or by line number)

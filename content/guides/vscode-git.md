@@ -2,7 +2,7 @@
 title: "VSCode (git)"
 ---
 
-This is a short guide on how to use **git** in **Visual Studio Code** (VSCode).
+This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). The purpose of git is to allow you to easily share your code with collaborators and track the changes each of you make.
 
 1. **Clone repository**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository
 2. **Download existing changes**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`
@@ -24,4 +24,6 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode).
 6. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: commit all`
 7. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`
 
-Problem? You can undo last commit with `git: undo last commit`
+Problems? You can undo last commit with `git: undo last commit`
+
+To avoid merge conflicts also begin by downloading existing changes.

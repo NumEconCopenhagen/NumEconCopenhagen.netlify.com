@@ -7,8 +7,8 @@ This repository is the workhorse of the webpage numeconcopenhagen.netlify.com. W
 ## ToDo
 
 - [ ] Add guide for _Jupyter Notebook_
-- [ ] Add guide for _Git in VSCode_
-- [ ] Add guide for _Debugging in VSCode (debugging)_
+- [X] Add guide for _Git in VSCode_
+- [X] Add guide for _Debugging in VSCode (debugging)_
 - [ ] Add guide for _Searching for answers (using online documentation, Google, Stackoverflow etc.)_
 - [ ] Add guide for _Asking questions (using GitHUb issues)_
 - [ ] Add guide for _Basic terminal commands_

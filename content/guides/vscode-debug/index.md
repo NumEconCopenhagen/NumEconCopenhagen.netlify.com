@@ -47,6 +47,9 @@ This is a short guide on how to use the **debugger** in **Visual Studio Code** (
 6. Open the debug console with <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Y</kbd> 
 7. Try writing e.g. `a+2`
 
+{{< figure src="vscode-debug-gif.gif" width="75%" class="text-center" attr="The terminal and browser after you've executed the command `jupyter notebook`">}}
+
+
 **Bonus info:** 
 
 1. It also stops at errors.

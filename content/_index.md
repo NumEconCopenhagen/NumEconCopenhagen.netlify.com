@@ -6,7 +6,7 @@ title: "Welcome"
 
 # Course Plan
 
-[Overview](guides/course-plan)
+[Overview](/course-plan/)
 
 [Course plan 2019](/course-plan-table/)
 

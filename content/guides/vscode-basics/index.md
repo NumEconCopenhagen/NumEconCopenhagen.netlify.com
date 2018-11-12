@@ -1,5 +1,6 @@
 ---
 title: "VSCode (basics)"
+markup: "mmark"
 ---
 
 This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and the only use Jupyter Notebooks for presenting the results.
@@ -16,17 +17,16 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 6. **Interactive session**: 
-   
-   1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
-   2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
-   3. In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
-   4. Done? Kill the terminal by pressing the trash can icon
+      i.    Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
+      ii.    Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
+      iii.    In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
+      iv.    Done? Kill the terminal by pressing the trash can icon
    
       *Note:* You can also select multiple lines to run.
 
 7. **Check for errors**: 
-   
-   1. Add a third line of code:
+      i.    Add a third line of code:
+      i.    Add a third line of code:
    
       {{< highlight python "linenos=table" >}}
       message = 'hello world'
@@ -34,11 +34,11 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
       print(messages) 
       {{< / highlight >}}
 
-   2. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
-   3. Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
-   4. Find next error: <kbd>F8</kbd> 
+      i.    Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
+      i.    Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
+      i.    Find next error: <kbd>F8</kbd> 
    
-8. **Short cuts for changing view:**
+8.  **Short cuts for changing view:**
   
     * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>
     * Open window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
@@ -50,7 +50,7 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
     * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
     * Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd>,<kbd>Ctrl</kbd>+<kbd>Z</kbd> 
   
-9. **Short cuts for smart editing:**
+9.  **Short cuts for smart editing:**
 
     * Move current line: <kbd>Alt</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
     * Copy current line: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>

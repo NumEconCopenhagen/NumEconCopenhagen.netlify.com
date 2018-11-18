@@ -25,8 +25,8 @@ Installation and work-flow:
 Other:
 
 1. Searching for answers (using online documentation, Google, Stackoverflow etc.)
-2. Asking questions (using GitHUb issues)
-3. Markdown
+2. [Asking questions (using GitHUb issues)](/guides/github-issues)
+3. [Markdown](/guides/markdown-basics)
 4. Binder
 
 # Course Description

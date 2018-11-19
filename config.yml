@@ -10,6 +10,8 @@ menu:
     - name: "Lectures"
       url: "/lectures/"
       weight: 20
+    - name: "Guides"
+      url: "/guides/"
   menu2:
     - name: "Course Plan"
       url: "/course-plan-table/"

@@ -12,3 +12,7 @@ Please read this [post](https://medium.com/nycplanninglabs/writing-a-proper-gith
 3. Click on _New Issue_
 4. Give the issue an appropriate name so it is clear to other people and your future you what the issue is about.
 5. Explain your problem, and what you've attempted to do.
+
+### Example
+
+{{< figure src="creating-issue.gif" width="75%" class="text-center">}}

@@ -27,7 +27,7 @@ Other:
 1. Searching for answers (using online documentation, Google, Stackoverflow etc.)
 2. [Asking questions (using GitHUb issues)](/guides/github-issues)
 3. [Markdown](/guides/markdown-basics)
-4. Binder
+4. [mybinder.org](/guides/mybinder-basics)
 
 # Course Description
 

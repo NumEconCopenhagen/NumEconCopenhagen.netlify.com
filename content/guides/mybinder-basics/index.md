@@ -19,3 +19,11 @@ The way you let _mybinder.org_ know about your dependencies is to do the followi
 2. In the folder create the file `/mybinder/environment.yml` add your channels, add pip and conda dependencies.
 
 If your are interested in a more advanced configuration than above please see [Docs - configuration files](https://mybinder.readthedocs.io/en/latest/config_files.html)
+
+### Examples
+
+First we will fire up a Jupyter Notebook using _mybinder.org_ where no `Python` packages is installed other than those which ships with `Python`.
+
+{{< figure src="installing-packages.gif" width="75%" class="text-center">}}
+
+The second example we show how we can install the packages used in the first example before the Jupyter Session is launched using a `environment.yml` file.

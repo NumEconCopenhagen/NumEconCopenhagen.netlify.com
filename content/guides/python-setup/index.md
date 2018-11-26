@@ -51,3 +51,7 @@ To follow this course you need:
 2. Download git from https://git-scm.com/
 3. Run installer
 4. When asked: "Visual Studio Code as Gits default editor"
+
+**Next guide:** [Run Python in Jupyter Notebook](/guides/jupyter-notebook)
+
+# Notes

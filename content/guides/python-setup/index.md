@@ -18,7 +18,9 @@ To follow this course you need:
 
 **Step 1b: Extensions for Anaconda** (optional)
 
-1. Open **Anaconda Prompt** (you might need to run it as administrator)
+*This just installs some extentions, which are nice, but are not necessary*
+
+1. Open **Anaconda Prompt** (you might need to run it as administrator^[On windows this is done by right-clicking the income])
 2. Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
 3. Run: `jupyter notebook` (this opens a browser window)
 4. In the "Nbextensions" tab I have choosen:

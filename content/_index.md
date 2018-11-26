@@ -6,7 +6,7 @@ This course introduces you to programming and enables you to numerically solve s
 
 We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course require you to get your hands dirty, programming is not a spectator sport.
 
-All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. 
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. In the first clases you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
 
 The course is centered arround three GitHub repositories:
 
@@ -14,19 +14,15 @@ The course is centered arround three GitHub repositories:
 2. [exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019): Problem sets with solutions ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
 3. [NumEcon](https://github.com/NumEconCopenhagen/numecon): Package for numerical economics ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
 
+The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+
+# Guides
+
 To follow this course you need:
 
 1. A **Python enviroment** (we will use [Anaconda](https://www.anaconda.com))
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/))
 3. A **git enviroment**
-
-See under guides below to get started.
-
-**Course responsible**: [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, Center for Economic Behavior and Inequality 
-
-[Course plan 2019](/course-plan/)
-
-# Guides
 
 In the first set of guides you learn to:
 

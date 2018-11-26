@@ -24,15 +24,14 @@ To follow this course you need:
 2. Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
 3. Run: `jupyter notebook` (this opens a browser window)
 4. In the "Nbextensions" tab I have choosen:
-
-   * Code prettify
-   * Codefolding (*can give problems with the gutter*, add delay in settings)
-   * Collapsible Headings     
-   * Equation Auto Numbering
-   * Execture Time
-   * Move selected cell
-   * Split Cells Notebook
-   * Table of Contents(2)
+ * Code prettify
+ * Codefolding (*can give problems with the gutter*, add delay in settings)
+ * Collapsible Headings     
+ * Equation Auto Numbering
+ * Execture Time
+ * Move selected cell
+ * Split Cells Notebook
+ * Table of Contents(2)
 
 **Step 1c: Extensions for VSCode**
 

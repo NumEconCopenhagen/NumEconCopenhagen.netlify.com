@@ -4,7 +4,23 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
-We will mostly use the [Python](https://www.python.org/) programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course require you to get your hands dirty, programming is not a spectator sport.
+We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course require you to get your hands dirty, programming is not a spectator sport.
+
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. 
+
+The course is centered arround three GitHub repositories:
+
+1. [lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019): Slides and code for the lectures ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
+2. [exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019): Problem sets with solutions ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
+3. [NumEcon](https://github.com/NumEconCopenhagen/numecon): Package for numerical economics ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
+
+To follow this course you need:
+
+1. A **Python enviroment** (we will use [Anaconda](https://www.anaconda.com))
+2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/))
+3. A **git enviroment**
+
+See under guides below to get started.
 
 **Course responsible**: [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, Center for Economic Behavior and Inequality 
 

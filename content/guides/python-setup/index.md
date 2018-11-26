@@ -43,9 +43,7 @@ To follow this course you need:
 
    * Anaconda Extensions Pack
    * Python
-   
 <br>
-
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
 6. Run `Python: Select Interpreter` and choose the Anaconda distribution you installed above
 7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `Terminal: Select Default Shell` and choose `Command Prompt`

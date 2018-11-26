@@ -2,7 +2,9 @@
 title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master)
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically.  
+
+The course requires no prior experience with programming.
 
 # Course Plan
 
@@ -27,13 +29,7 @@ Other:
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)
 
-# Course Description
-
-[Course description on kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019) (with exam details etc.)
-
-This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically.  
-
-The course requires no prior experience with programming.
+# Course Description ([kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019))
 
 The first part of the course introduces you to programming using the general-purpose Python language. You will learn to write conditional statements, loops, functions, and classes, and to print results and produce static and interactive plots. You will learn to solve simple numerical optimization problems, and draw random number and run simulations. You will learn to test, debug and document your code, and use online communities proactively when writing code. 
 

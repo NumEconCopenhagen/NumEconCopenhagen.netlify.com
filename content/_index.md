@@ -14,7 +14,7 @@ The course is centered arround three GitHub repositories:
 2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
 3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
 
-The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), assistant professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
 # Guides
 

@@ -6,8 +6,6 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 
 # Course Plan
 
-[Overview](/course-plan/)
-
 [Course plan 2019](/course-plan-table/)
 
 [Deadlines 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=1691428044)

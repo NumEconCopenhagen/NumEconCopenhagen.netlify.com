@@ -20,10 +20,10 @@ To follow this course you need:
 
 *This just installs some extentions, which are nice, but are not necessary.*
 
-1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (you might need to run it as administrator^[This is done by right-clicking the program icon.])
+1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows, you might need to run it as administrator^[This is done by right-clicking the program icon and choosing `Run as administrator`.])
 2. Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
 3. Run: `jupyter notebook` (this opens a browser window)
-4. In the "Nbextensions" tab I have choosen:
+4. In the `Nbextensions` tab I have choosen:
  * Code prettify
  * Codefolding (*can give problems with the gutter*, add delay in settings)
  * Collapsible Headings     

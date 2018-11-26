@@ -50,7 +50,6 @@ To follow this course you need:
 <br>
 
 # Step 2: Git
-<br>
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/

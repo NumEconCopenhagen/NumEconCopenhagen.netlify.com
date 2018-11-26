@@ -14,7 +14,7 @@ menu:
       url: "/guides/"
   menu2:
     - name: "Course Plan"
-      url: "/course-plan-table/"
+      url: "/course-plan/"
   menu3:
     - name: "Github"
       url: "https://github.com/NumEconCopenhagen"

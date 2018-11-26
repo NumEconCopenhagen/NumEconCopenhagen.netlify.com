@@ -2,15 +2,23 @@
 title: "Course plan"
 ---
 
-## Schedule
+On this page you find:
+
+1. [The schedule](schedule)
+2. [Deadlines](deadlines)
+3. [Descriptions of each week](descriptions)
+
+## Schedule <a name="schedule"></a>
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="3">}}
 
-## Deadlines
+
+## Deadlines <a name="deadlines"></a>
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/export?format=csv" col_start="0" col_end="1">}}
 
-## Week-by-week 
+
+## Descriptions of each week <a name="descriptions"></a>
 
 ### Week 1: Introduction
 

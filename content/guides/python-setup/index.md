@@ -52,6 +52,8 @@ To follow this course you need:
 3. Run installer
 4. When asked: "Visual Studio Code as Gits default editor"
 
-**Next guide:** [Run Python in Jupyter Notebook](/guides/jupyter-notebook)
+# Next guide
+
+[Run Python in Jupyter Notebook](/guides/jupyter-notebook)
 
 # Notes

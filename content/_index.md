@@ -28,13 +28,12 @@ See under guides below to get started.
 
 # Guides
 
-Installation and work-flow:
+In the first set of guides you learn to:
 
-1. [Installing Python and VSCode](/guides/python-setup)
-2. [Jupyter Notebook](/guides/jupyter-notebook)
-3. [Basic VSCode](/guides/vscode-basics)
-4. [Git in VSCode](/guides/vscode-git)
-5. [Debugging in VSCode](/guides/vscode-debug)
+1. [Install Python and VSCode](/guides/python-setup)
+2. [Run Python in Jupyter Notebook](/guides/jupyter-notebook)
+3. [Run Python in VSCode](/guides/vscode-basics)
+4. [Using Git in VSCode](/guides/vscode-git)
 
 Other:
 
@@ -42,6 +41,7 @@ Other:
 2. [Asking questions (using GitHUb issues)](/guides/github-issues)
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)
+5. [Debugging in VSCode](/guides/vscode-debug)
 
 # Course Description
 

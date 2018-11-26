@@ -2,15 +2,13 @@
 title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 
-This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically.  
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
-The course requires no prior experience with programming.
+We will mostly use the [Python](https://www.python.org/) programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course require you to get your hands dirty, programming is not a spectator sport.
 
-# Course Plan
+**Course responsible**: [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, Center for Economic Behavior and Inequality 
 
 [Course plan 2019](/course-plan/)
-
-[Deadlines 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=1691428044)
 
 # Guides
 
@@ -30,6 +28,10 @@ Other:
 4. [mybinder.org](/guides/mybinder-basics)
 
 # Course Description
+
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
+
+The course requires no prior experience with programming.
 
 The first part of the course introduces you to programming using the general-purpose Python language. You will learn to write conditional statements, loops, functions, and classes, and to print results and produce static and interactive plots. You will learn to solve simple numerical optimization problems, and draw random number and run simulations. You will learn to test, debug and document your code, and use online communities proactively when writing code. 
 

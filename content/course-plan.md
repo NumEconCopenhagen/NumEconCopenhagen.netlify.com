@@ -10,19 +10,19 @@ On this page you find:
 
 <br>
 
-## <a name="schedule"></a>Schedule 
+## <a name="schedule"></a>1. Schedule 
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="3">}}
 
 <br>
 
-## <a name="deadlines"></a>Deadlines
+## <a name="deadlines"></a>2. Deadlines
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/export?format=csv" col_start="0" col_end="1">}}
 
 <br>
 
-## <a name="descriptions"></a>Descriptions of each week 
+## <a name="descriptions"></a>3. Descriptions of each week 
 
 <br>
 

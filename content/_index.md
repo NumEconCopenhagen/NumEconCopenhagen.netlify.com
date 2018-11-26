@@ -6,15 +6,15 @@ This course introduces you to programming and enables you to numerically solve s
 
 We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty, programming is not a spectator sport.
 
-All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. In the first clases you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
 
 The course is centered arround three GitHub repositories:
 
-1. [lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019): Slides and code for the lectures ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
-2. [exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019): Problem sets with solutions ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
-3. [NumEcon](https://github.com/NumEconCopenhagen/numecon): Package for numerical economics ([interactive](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
+1. [lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019): Slides and code for the lectures ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
+2. [exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019): Problem sets with solutions ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
+3. [NumEcon](https://github.com/NumEconCopenhagen/numecon): Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
 
-The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
+The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), assistant professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
 # Guides
 

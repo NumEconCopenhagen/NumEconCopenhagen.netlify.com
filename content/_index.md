@@ -6,7 +6,7 @@ This course introduces you to programming and enables you to numerically solve s
 
 We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty, programming is not a spectator sport.
 
-All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
 
 The course is centered arround three GitHub repositories:
 

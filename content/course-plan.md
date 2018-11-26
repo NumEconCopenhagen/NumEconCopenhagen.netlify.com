@@ -4,9 +4,9 @@ title: "Course plan"
 
 On this page you find:
 
-1. [The schedule](schedule)
-2. [Deadlines](deadlines)
-3. [Descriptions of each week](descriptions)
+1. [The schedule](#schedule)
+2. [Deadlines](#deadlines)
+3. [Descriptions of each week](#descriptions)
 
 ## <a name="schedule"></a>Schedule 
 

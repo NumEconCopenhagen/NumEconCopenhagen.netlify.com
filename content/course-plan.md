@@ -12,11 +12,15 @@ On this page you find:
 
 ## <a name="schedule"></a>1. Schedule 
 
+<br>
+
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="3">}}
 
 <br>
 
 ## <a name="deadlines"></a>2. Deadlines
+
+<br>
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/export?format=csv" col_start="0" col_end="1">}}
 

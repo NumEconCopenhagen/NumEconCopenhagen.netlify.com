@@ -29,7 +29,7 @@ Other:
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)
 
-# Course Description ([kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019))
+# Course Description
 
 The first part of the course introduces you to programming using the general-purpose Python language. You will learn to write conditional statements, loops, functions, and classes, and to print results and produce static and interactive plots. You will learn to solve simple numerical optimization problems, and draw random number and run simulations. You will learn to test, debug and document your code, and use online communities proactively when writing code. 
 
@@ -40,6 +40,8 @@ The third part of the course introduce you to the concept of a numerical algorit
 You will get hands-on experience with applying the above techniques to solve well-known microeconomic and macroeconomic problems from the core bachelor courses. Specifically, you will work with both a small data analysis project, and a larger model analysis project based on a well-known economic model.
 
 While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
+
+*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019))*
 
 # Learning Outcomes
 

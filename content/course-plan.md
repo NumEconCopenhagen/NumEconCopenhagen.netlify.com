@@ -8,17 +8,17 @@ On this page you find:
 2. [Deadlines](deadlines)
 3. [Descriptions of each week](descriptions)
 
-## Schedule <a name="schedule"></a>
+## <a name="schedule"></a>Schedule 
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="3">}}
 
 
-## Deadlines <a name="deadlines"></a>
+## <a name="deadlines"></a>Deadlines
 
 {{< csvtable src="https://docs.google.com/spreadsheets/d/1T3g-ltqZNWU_92QEdgSbyzlpUROkMUjVQkqzv6xGDD0/export?format=csv" col_start="0" col_end="1">}}
 
 
-## Descriptions of each week <a name="descriptions"></a>
+## <a name="descriptions"></a>Descriptions of each week 
 
 ### Week 1: Introduction
 

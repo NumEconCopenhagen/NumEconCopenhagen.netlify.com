@@ -4,7 +4,7 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
-We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course require you to get your hands dirty, programming is not a spectator sport.
+We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty, programming is not a spectator sport.
 
 All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)**. In the first clases you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**  
 
@@ -93,3 +93,16 @@ While the course only focus on programming in Python, you will also be equipped 
 * Perform numerical simulation of stochastic models
 * Present and discuss results of a numerical analysis
 * Learn new programming tools and languages
+
+# Other ressources
+
+Some recommended online ressources for learning programming relevant to economics are:
+
+1. [Social Data Science](https://abjer.github.io/sds/)
+2. [Quantitative Economics](https://lectures.quantecon.org/)
+3. [Econ-Ark](https://econ-ark.org/)
+4. [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+5. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+6. [Numerical Methods in Engineering with Python](https://doc.lagout.org/programmation/python/Numerical%20Methods%20in%20Engineering%20with%20Python%203%20%5BKiusalaas%202011-02-21%5D.pdf)
+7. [Online MATLAB course for students of Eonomics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
+8. [Dynamic Programming](https://absalon.ku.dk/courses/25988)

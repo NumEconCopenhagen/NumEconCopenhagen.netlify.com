@@ -41,7 +41,7 @@ You will get hands-on experience with applying the above techniques to solve wel
 
 While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
 
-*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019))*
+*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019)*
 
 # Learning Outcomes
 

@@ -8,7 +8,7 @@ title: "Course plan"
 
 ## Deadlines
 
-{{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/export?format=csv" col_start="0" col_end="1">}}
+{{< csvtable src="https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=1691428044/export?format=csv" col_start="0" col_end="1">}}
 
 ## Week 1: Introduction
 

@@ -10,6 +10,8 @@ To follow this course you need:
 
 # Step 1: Install Anaconda and VSCode
 
+<br>
+
 **Step 1a: Main**
 
 1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
@@ -43,6 +45,7 @@ To follow this course you need:
 
    * Anaconda Extensions Pack
    * Python
+<br>
 
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
 6. Run `Python: Select Interpreter` and choose the Anaconda distribution you installed above

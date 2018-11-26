@@ -28,6 +28,8 @@ On this page you find:
 
 ## <a name="descriptions"></a>3. Descriptions of each week 
 
+<br>
+
 ### Week 1: Introduction
 
 **Lecture:** You will be introduced to working with Python 3 (Anaconda, Jupyter Notebook, VS Code). In order to show the power of numerical methods, we will: 1) solve a consumer problem, 2) simulate an AS-AD model.

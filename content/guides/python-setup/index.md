@@ -8,6 +8,8 @@ To follow this course you need:
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/), alternatives are [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), and [PyCharm](https://www.jetbrains.com/pycharm/))
 3. A **git enviroment**
 
+<br>
+  
 # Step 1: Install Anaconda and VSCode
 <br>
 **Step 1a: Main**
@@ -46,6 +48,8 @@ To follow this course you need:
 7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `Terminal: Select Default Shell` and choose `Command Prompt`
 
 # Step 2: Git
+
+<br>
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/

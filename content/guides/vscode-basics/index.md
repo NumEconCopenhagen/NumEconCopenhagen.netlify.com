@@ -26,7 +26,7 @@ Our recommendation is that you for larger projects write your functions and clas
    *Note:* You can also select multiple lines to run.
 7. **Check for errors**: 
    i.    Add a third line of code:
-   
+      <br>
       {{< highlight python "linenos=table" >}}
       message = 'hello world'
       print(message)      

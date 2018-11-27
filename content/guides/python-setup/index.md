@@ -16,7 +16,7 @@ To follow this course you need:
 
 1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
 2. Run the installer (custom settings are fine)
-3. When asked: Install Microsoft VSCode
+3. When asked choose "Install Microsoft VSCode"
 
 **Step 1b: Extensions for Anaconda** (optional)
 
@@ -25,7 +25,7 @@ To follow this course you need:
 1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows, you might need to run it as administrator^[This is done by right-clicking the program icon and choosing `Run as administrator`.])
 2. Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
 3. Run: `jupyter notebook` (this opens a browser window)
-4. In the `Nbextensions` tab I have choosen:
+4. In the `Nbextensions` tab we in particular recoommend:
  * Code prettify
  * Codefolding (*can give problems with the gutter*, add delay in settings)
  * Collapsible Headings     
@@ -54,7 +54,7 @@ To follow this course you need:
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer
-4. When asked: "Visual Studio Code as Gits default editor"
+4. When asked choose "Visual Studio Code as Gits default editor"
 
 <br>
 

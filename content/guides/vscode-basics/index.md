@@ -5,7 +5,7 @@ markup: "mmark"
 
 This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and only use Jupyter Notebooks for presenting the results.
 
-## 1. Execute Python-file
+## 1. Execute Python file
 
 The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 

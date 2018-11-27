@@ -1,23 +1,29 @@
 ---
-title: "VSCode (basics)"
+title: "Run Python in VSCode"
 markup: "mmark"
 ---
 
-This is a short guide on how to use **Visual Studio Code** (VSCode). 
+This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and only use Jupyter Notebooks for presenting the results.
 
-Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and the only use Jupyter Notebooks for presenting the results.
+## 1. Execute Python-file
+
+The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
 2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> (write e.g. test.py)
 4. **Write code**: Write the following lines of code:
 
- {{< highlight python "linenos=table" >}}
- message = 'hello world'
- print(message)
- {{< / highlight >}}
+    {{< highlight python "linenos=table" >}}
+    message = 'hello world'
+    print(message)
+    {{< / highlight >}}
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
+
+## 2. Interactive session
+
+
 6. **Interactive session**: 
  i. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
  ii. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)

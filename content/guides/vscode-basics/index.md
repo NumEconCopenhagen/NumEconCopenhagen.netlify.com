@@ -11,10 +11,12 @@ Our recommendation is that you for larger projects write your functions and clas
 2. **Create new file**: <kbd>Ctrl</kbd>+<kbd>N</kbd>
 3. **Save new file**: <kbd>Ctrl</kbd>+<kbd>S</kbd> (write e.g. test.py)
 4. **Write code**: Write the following lines of code:
+
    {{< highlight python "linenos=table" >}}
    message = 'hello world'
    print(message)
    {{< / highlight >}}
+
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
 6. **Interactive session**: 
    i. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)

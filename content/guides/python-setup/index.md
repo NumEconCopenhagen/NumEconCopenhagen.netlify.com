@@ -42,7 +42,7 @@ A step-by-step guide is provided below.
 1. Open **VSCode**
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
 3. Run `Extensions: Install Extensions`
-4. Search for and install the following extensions:
+4. Search for and install the following extensions (if not already installed):
     * Anaconda Extensions Pack
     * Python  
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again

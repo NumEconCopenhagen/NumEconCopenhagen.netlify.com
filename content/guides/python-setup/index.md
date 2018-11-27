@@ -55,8 +55,7 @@ A step-by-step guide is provided below.
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
-3. Run installer
-4. When asked choose "Visual Studio Code as Gits default editor"
+3. Run installer with all the custom settings
 
 <br>
 

@@ -8,6 +8,8 @@ To follow this course you need:
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/), alternatives are [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), and [PyCharm](https://www.jetbrains.com/pycharm/))
 3. A **git enviroment**
 
+A step-by-step guide is provided below.
+
 <br>
   
 # Step 1: Install Anaconda and VSCode

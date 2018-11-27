@@ -36,7 +36,6 @@ Our recommendation is that you for larger projects write your functions and clas
    ii.    Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
    iii.    Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
    iv.    Find next error: <kbd>F8</kbd> 
-   
 8.  **Short cuts for changing view:**
   
    * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>

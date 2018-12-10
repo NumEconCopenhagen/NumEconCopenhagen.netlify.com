@@ -1,7 +1,7 @@
 ---
 title: "Github Issues"
 ---
-Basically, A _Github Issue_ is a way of communicating a bug, request or something else related to a specific Project hosted on Github. This guide only shows how to create an issue heavily inspired by this [post](https://help.github.com/articles/creating-an-issue/). [This thorough introduction to mastering _Github Issues_](https://guides.github.com/features/issues/) is recommended.
+Basically, A _Github Issue_ is a way of communicating a bug, request or something else related to a specific Project hosted on Github. When you've understood how to create a Github Issue please read this [post](https://medium.com/nycplanninglabs/writing-a-proper-github-issue-97427d62a20f) that goes through the charateristics of a quality _Github Issue_.
 
 ### Creating a Github Issue
 

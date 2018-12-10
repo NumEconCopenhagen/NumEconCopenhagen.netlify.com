@@ -33,7 +33,7 @@ In the first set of guides you learn to:
 
 Other:
 
-1. Searching for answers (using online documentation, Google, Stackoverflow etc.)
+1. [Searching for answers (using online documentation, Google, Stackoverflow etc.)](/guides/questions)
 2. [Asking questions (using Github issues)](/guides/github-issues)
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)

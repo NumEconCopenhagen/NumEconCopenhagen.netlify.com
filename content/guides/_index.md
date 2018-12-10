@@ -1,6 +1,7 @@
 ---
 title: "Guides"
 ---
+* [Asking questions](questions/)
 * [Github Issues](github-issues/)
 * [Jupyter Notebooks](jupyter-notebook/)
 * [Markdown - Basics](markdown-basics/)

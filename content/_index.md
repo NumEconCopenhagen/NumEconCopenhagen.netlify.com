@@ -38,6 +38,7 @@ Other:
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)
 5. [Debugging in VSCode](/guides/vscode-debug)
+6. [Providing your solutions to the course](/guides/pull-requests/)
 
 # Course Description
 

@@ -1,26 +1,35 @@
 ---
-title: "Welcome"
+title: "Welcome to Introduction to Programming and Numerical Analysis"
 ---
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master)
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
-# Course Plan
+We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty, programming is not a spectator sport.
 
-[Overview](/course-plan/)
+All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**.
 
-[Course plan 2019](/course-plan-table/)
+The course is centered arround three GitHub repositories:
 
-[Deadlines 2019](https://docs.google.com/spreadsheets/d/1f9qFOIj1gybzNqqtVoj3m1M-n7AKYesdkxSPKERy2Qw/edit#gid=1691428044)
+1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
+2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
+3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
+
+The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
 # Guides
 
-Installation and work-flow:
+To follow this course you need:
 
-1. [Installing Python and VSCode](/guides/python-setup)
-2. [Jupyter Notebook](/guides/jupyter-notebook)
-3. [Basic VSCode](/guides/vscode-basics)
-4. [Git in VSCode](/guides/vscode-git)
-5. [Debugging in VSCode](/guides/vscode-debug)
+1. A **Python enviroment** (we will use [Anaconda](https://www.anaconda.com))
+2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/))
+3. A **git enviroment**
+
+In the first set of guides you learn to:
+
+1. [Install Python and VSCode](/guides/python-setup)
+2. [Run Python in Jupyter Notebook](/guides/jupyter-notebook)
+3. [Run Python in VSCode](/guides/vscode-basics)
+4. [Using Git in VSCode](/guides/vscode-git)
 
 Other:
 
@@ -28,12 +37,11 @@ Other:
 2. [Asking questions (using GitHUb issues)](/guides/github-issues)
 3. [Markdown](/guides/markdown-basics)
 4. [mybinder.org](/guides/mybinder-basics)
+5. [Debugging in VSCode](/guides/vscode-debug)
 
 # Course Description
 
-[Course description on kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019) (with exam details etc.)
-
-This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically.  
+This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
 The course requires no prior experience with programming.
 
@@ -46,6 +54,8 @@ The third part of the course introduce you to the concept of a numerical algorit
 You will get hands-on experience with applying the above techniques to solve well-known microeconomic and macroeconomic problems from the core bachelor courses. Specifically, you will work with both a small data analysis project, and a larger model analysis project based on a well-known economic model.
 
 While the course only focus on programming in Python, you will also be equipped to start learning other programming languages (such as MATLAB, R, Julia or even C/C++) on your own.
+
+*For exam information and further details see [kurser.ku.dk](http://kurser.ku.dk/course/a%C3%98ka08232u/2018-2019)*
 
 # Learning Outcomes
 
@@ -83,3 +93,16 @@ While the course only focus on programming in Python, you will also be equipped 
 * Perform numerical simulation of stochastic models
 * Present and discuss results of a numerical analysis
 * Learn new programming tools and languages
+
+# Other ressources
+
+Some recommended online ressources for learning programming relevant to economics are:
+
+1. [Social Data Science](https://abjer.github.io/sds/)
+2. [Quantitative Economics](https://lectures.quantecon.org/)
+3. [Econ-Ark](https://econ-ark.org/)
+4. [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
+5. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+6. [Numerical Methods in Engineering with Python](https://doc.lagout.org/programmation/python/Numerical%20Methods%20in%20Engineering%20with%20Python%203%20%5BKiusalaas%202011-02-21%5D.pdf)
+7. [Online MATLAB course for students of Eonomics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
+8. [Dynamic Programming](https://absalon.ku.dk/courses/25988)

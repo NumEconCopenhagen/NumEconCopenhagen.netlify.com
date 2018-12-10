@@ -24,6 +24,8 @@ If your are interested in a more advanced configuration than above please see [D
 
 First we will fire up a Jupyter Notebook using _mybinder.org_ where no `Python` packages is installed other than those which ships with `Python`.
 
-{{< figure src="installing-packages.gif" width="75%" class="text-center">}}
+{{< figure src="installing-packages.gif" width="100%" class="text-center">}}
 
 The second example we show how we can install the packages used in the first example before the Jupyter Session is launched using a `environment.yml` file.
+
+{{< figure src="env.gif" width="100%" class="text-center" >}}

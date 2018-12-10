@@ -1,0 +1,23 @@
+{
+  "name": "numeconcopenhagen.netlify.com",
+  "version": "1.0.0",
+  "description": "This repository is the workhorse of the webpage numeconcopenhagen.netlify.com. We are using the awesome static build generator [Hugo](gohugo.io/\r ) to generate the underlying html structure of the webpage, and using the _free_ hosting service at [Netlify](https://www.netlify.com/\r ) to let the world access our course site.",
+  "main": "index.js",
+  "scripts": {
+    "hugo": "hugo",
+    "hugo-serve": "hugo serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com.git"
+  },
+  "author": "Jakob Jul Elben, Jeppe Druedahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com/issues"
+  },
+  "homepage": "https://github.com/NumEconCopenhagen/NumEconCopenhagen.netlify.com#readme",
+  "devDependencies": {
+    "hugo-bin": "^0.39.0"
+  }
+}

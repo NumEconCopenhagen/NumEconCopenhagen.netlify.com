@@ -1,5 +1,5 @@
 ---
-title: "mybinder.org - Basics"
+title: "Creating an interactive version of your code (mybinder.org)"
 ---
 [mybinder.org](https://mybinder.org/)^[The documentation is available [here](https://mybinder.readthedocs.io/en/latest/index.html)] is an awesome way of sharing you python code and jupyter notebook within an interactive environment where other people can run your code, change your code without affecting the actual code. 
 

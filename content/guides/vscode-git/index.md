@@ -1,5 +1,5 @@
 ---
-title: "VSCode (git)"
+title: "Using git in VSCode"
 ---
 
 This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). The purpose of git is to allow you to easily share your code with collaborators and track the changes each of you make.

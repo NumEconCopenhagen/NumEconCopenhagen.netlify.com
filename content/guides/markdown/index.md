@@ -1,5 +1,5 @@
 ---
-title: "Markdown Basics"
+title: "Writing markdown"
 ---
 The guide is written by Adam Pritchard.
 

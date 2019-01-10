@@ -1,13 +1,20 @@
 ---
 title: "Guides"
 ---
-* [Asking questions](questions/)
-* [Github Issues](github-issues/)
-* [Jupyter Notebooks](jupyter-notebook/)
-* [Markdown - Basics](markdown-basics/)
-* [mybinder.org](mybinder-basics/)
-* [Providing your solutions to the course](pull-requests/)
-* [Python setup](python-setup/)
-* [VSCode basics](vscode-basics/)
-* [VSCode debugging](vscode-debug/)
-* [VScode git](vscode-git/)
+
+In the first set of guides you learn to:
+
+1. [Installing Python and VSCode](/guides/python-setup)
+2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](/guides/markdown-basics))
+3. [Running Python in VSCode](/guides/vscode-basics) (see also: [Debugging in VSCode](/guides/vscode-debug))
+
+In the second set of guides you learn to search for and ask questions:
+
+1. [Searching for answers using Google and Stackoverflow](/guides/searching)
+2. [Asking questions using GitHub issues](/guides/github-issues)
+
+In the third set of guides you learn to use git:
+
+1. [Using Git in VSCode](/guides/vscode-git)
+2. [Submitting to snippets-2019](/guides/snippets)
+3. [Creating an interactive version of your code](/guides/mybinder)

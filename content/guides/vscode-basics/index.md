@@ -1,5 +1,5 @@
 ---
-title: "Run Python in VSCode"
+title: "Running Python in VSCode"
 markup: "mmark"
 ---
 

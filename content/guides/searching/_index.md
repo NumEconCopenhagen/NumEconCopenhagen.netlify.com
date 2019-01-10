@@ -1,17 +1,14 @@
 ---
-title: "Getting the answer for your question"
+title: "Searching for answers using Google and Stackoverflow"
 ---
-
-# Why
 
 Learning to program can be difficult and annoying. This guide aims at helping you to help yourself. First of all, learning to program does not mean that you should remember all features of a language, but rather that you are able to quickly solve the problems you come across. 
 
-The far most important skill for an efficient programmer is to be at googling because google answers _all_ your questions. 
+The far most important skill for an efficient programmer is to be good at googling because google answers _all_ your questions. 
 
 ## An example
 
 Let us consider an example. Say, that I create the following string and store it in a variable.
-
 
 {{< highlight python "linenos=table" >}}
 # Creating a string, and stores is as `s`
@@ -24,8 +21,7 @@ s[0] = "k"
 This results in the following:
 
 {{< highlight python "linenos=table" >}}
-Python 3.7.0 (default, Jun 28 2018, 08:04:48) [MSC v.1912 64 bit (AMD64)] :: Anaconda, Inc. on win32
-Type "help",
+
 >>> # Creating a string, and stores is as `s`
 ... s = "thisisastring"
 >>>
@@ -46,18 +42,19 @@ As we see the first example seems rather advanced, so we continue two the second
 # Assign `thisisastring` to the variable `s`
 s = "thisisastring"
 
-# Concatenate "k" with all characters from the string s from index 1 and until the end of the string to the variable `s2`
+# Concatenate "k" with all characters from the string s from index 1 
+# and until the end of the string to the variable `s2`
 s2 = "k" + s[1:]
 s2
 {{< / highlight >}}
 
 Executing the code yields:
 {{< highlight python "linenos=table" >}}
-Python 3.7.0 (default, Jun 28 2018, 08:04:48) [MSC v.1912 64 bit (AMD64)] :: Anaconda, Inc. on win32
-Type "help", "copyright", "credits" or "license" for more information.
+
 >>> s = "thisisastring"
 >>>
->>> # Concatenate "k" with all characters from the string s from index 1 and until the end of the string to the variable `s2`
+>>> # Concatenate "k" with all characters from the string s from index 1 
+>>> # and until the end of the string to the variable `s2`
 ... s2 = "k" + s[1:]
 >>> s2
 'khisisastring'
@@ -65,8 +62,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 ## Conclusion
 
-The way to seek answer for your question in the beginning is to google the errorcodes. The forum [Stackoverflow](https://stackoverflow.com) was created to answer questions related to programming. You can ask your questions on StackOverflow and someone will most probably answer them, but please make sure that you have ensured that the question has not been asked before. Some programmers tends to be rather angry if someone asks a question that has been answered earlier on.
+The best way to seek answers to your questions is to google the error codes. The forum [Stackoverflow](https://stackoverflow.com) was created to answer questions related to programming. You can ask your questions on StackOverflow and someone will most probably answer them, but please make sure that you have ensured that the question has not been asked before. Some programmers tends to be rather angry if someone asks a question that has been answered earlier on.
 
-The second point to emphasize is that search engines tends to remove all special characters which means that if you search for some code most of the code will be deleted therefore it is important to either search for the error code or words that identifies the problem on google.
+The second point to emphasize is that search engines tends to remove all special characters. This means that if you search for some code most of the code will be deleted. Therefore it is important to either search for the error code or words that identifies the problem.
 
-Finally, google tends to be better at finding the right Stackoverflow issue than Stackoverflows search engine so you would probably rather google your issues than searching for the answer on Stackoverflow.
+Finally, google tends to be better at finding the right Stackoverflow issue than Stackoverflows search engine, so you would probably rather google your issues than searching for the answer on Stackoverflow.

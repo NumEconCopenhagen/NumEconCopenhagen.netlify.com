@@ -4,15 +4,16 @@ title: "Welcome to Introduction to Programming and Numerical Analysis"
 
 This course introduces you to programming and enables you to numerically solve simple economic models and perform basic data analysis. This will e.g. allow you to both visualize solutions, easily test assumptions with respect to functional forms and parameters, and consider more realistic models, which are solvable numerically but not algebraically. 
 
-We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty, programming is not a spectator sport.
+We will mostly use the **[Python](https://www.python.org/)** programming language, and focus on well-known  microeconomic and macroeconomic models from the core bachelor courses (Edgeworth, Koopman, Solow, AS-AD etc.). The course requires you to get your hands dirty - programming is not a spectator sport!
 
 All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**.
 
-The course is centered arround three GitHub repositories:
+The course is centered arround four GitHub repositories:
 
 1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
 2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
-3. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
+3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master)) 
+4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
 
 The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 
@@ -26,19 +27,20 @@ To follow this course you need:
 
 In the first set of guides you learn to:
 
-1. [Install Python and VSCode](/guides/python-setup)
-2. [Run Python in Jupyter Notebook](/guides/jupyter-notebook)
-3. [Run Python in VSCode](/guides/vscode-basics)
-4. [Using Git in VSCode](/guides/vscode-git)
+1. [Installing Python and VSCode](/guides/python-setup)
+2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](/guides/markdown-basics))
+3. [Running Python in VSCode](/guides/vscode-basics) (see also: [Debugging in VSCode](/guides/vscode-debug))
 
-Other:
+In the second set of guides you learn to search for and ask questions:
 
-1. [Searching for answers (using online documentation, Google, Stackoverflow etc.)](/guides/questions)
-2. [Asking questions (using Github issues)](/guides/github-issues)
-3. [Markdown](/guides/markdown-basics)
-4. [mybinder.org](/guides/mybinder-basics)
-5. [Debugging in VSCode](/guides/vscode-debug)
-6. [Providing your solutions to the course](/guides/pull-requests/)
+1. [Searching for answers using Google and Stackoverflow](/guides/searching)
+2. [Asking questions using GitHub issues](/guides/github-issues)
+
+In the third set of guides you learn to use git:
+
+1. [Using Git in VSCode](/guides/vscode-git)
+2. [Submitting to snippets-2019](/guides/snippets)
+3. [Creating an interactive version of your code](/guides/mybinder)
 
 # Course Description
 

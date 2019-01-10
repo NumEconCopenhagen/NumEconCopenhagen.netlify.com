@@ -1,5 +1,5 @@
 ---
-title: "VSCode (debugging)"
+title: "Debugging in VSCode"
 ---
 
 This is a short guide on how to use the **debugger** in **Visual Studio Code** (VSCode). The debugger allows you to stop the execution of your program at a breakpoint you choose, and then go through the code line-by-line to investigate the behavior of your program in detail. This is very beneficial for locating bugs (errors).

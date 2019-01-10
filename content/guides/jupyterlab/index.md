@@ -1,5 +1,5 @@
 ---
-title: "Jupyter Notebooks - An introduction"
+title: "Running Python in JupyterLab"
 ---
 
 Jupyter notebook is awesome way of combining writing and coding in the same framework. If you haven't seen a Jupyter Notebook before it looks like this. 

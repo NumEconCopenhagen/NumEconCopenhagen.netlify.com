@@ -1,5 +1,5 @@
 ---
-title: "Providing your solutions to the course"
+title: "Submitting to snippets-2019"
 ---
 # Why
 This course is about providing solutions to the economic problems will face or have faced at the bachelor programme. We would really like that the best students' best solution is integrated in the course. This guide shows you how you can provide a solution to the course (you will of course be accordingly accredited for the solution).

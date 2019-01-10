@@ -2,36 +2,106 @@
 title: "Running Python in JupyterLab"
 ---
 
-JupyterLab is awesome way of combining writing and coding in the same framework. If you haven't seen JupyterLab before it looks like this. 
+JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
-{{< figure src="jupyter-notebook.gif" width="100%" class="text-center" attr="A Jupyter Notebook">}}
+[INSERT GIF]
 
+### Starting JupyterLab
 
+_[For installation of JupyterLab see [here](/guides/python-setup/)]_
 
-## Installation
+1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
+2. Run: `jupyter lab`
 
-The far easiest way of installing _Jupyter Notebook_ is by installing [Anaconda](https://www.anaconda.com/) because _Anaconda_ ships with _Jupyter Notebook_^["Ships with" means that _Anaconda_ will automatically install _Jupyter Notebook_ when it is installed itself.]. We have written you a guide of our suggestions to a basic setup suited for this course that can be found [here](/guides/python-installation/).
+Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
-## Jupyter Notebook - The basics
-
-We assume that you've followed our suggestion of installing _Anaconda_.  
-
------
-
-First of all, we need to know how we fire up a _Jupyter Notebook_. If you are using a Windows machine open the program `CMD`, if you are using a mac or are using Linux distribution open the program `Terminal`. At first, the terminal can appear very intimidating but do not worry, you will get to know the terminal as you go along this course. In the terminal, write the following piece of code: `jupyter notebook`. Hopefully, you will experience that you browser automatically opens a new tab or that your terminal shows a link. It should look similar to either the left or right side of beneath.
-
-{{< figure src="jupyter-fired-up.png" width="100%" class="text-center" attr="The terminal and browser after you've executed the command `jupyter notebook`">}}
-
-If, your browser doesn't open a new tab that looks like the right part of the figure above you should copy the link in your terminal that begins with `http://localhost:8888?token=...` and paste it into your browser. Afterwards you should see something similar to that of the screenshot above.
+[INSERT GIF]
 
 ### Creating a notebook
 
-To create new notebook click on `new` in the upper right corner, and then choose `Python 3` from the dropdown menu. As shown below:
+In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
 
-{{< figure src="new-notebook.gif" width="100%" class="text-center" attr="Creating a new notebook">}}
+1. Code cells with Python code
+2. Markdown cells with text (see the guide [Writing markdown](\guides\markdown))
 
-These are the basics. A more in depth introduction is given [here](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+When inside a cell you are in `edit mode`, when not you are in `command mode`.
+
+The most important notebook commands are:
+
+* Movements: Arrows and scrolling
+* Run cell and advance: <kbd>Shift</kbd>+<kbd>Enter</kbd>
+* Run cell: <kbd>Ctrl</kbd>+<kbd>Enter</kbd>
+* Enter edit mode: <kbd>Enter</kbd>
+* Enter command mode: <kbd>Ctrl</kbd>+<kbd>M</kbd>
+* Change to markdown cell: <kbd>M</kbd> (only in command mode)
+* Change to code cell: <kbd>Y</kbd> (only in command mode)
+
+In the left-panel on JupyterLab you can e.g. access:
+
+1. File Browser: To open existing notebooks anywhere on your computer.
+2. Running Terminal and Kernels: To shutdown terminals and kernels.
+3. Command Palette: To see a list of possible commands.
+4. Table of Contents: To see links to sections based on headings (#, ##, ###).
+
+The **interface of JupyterLab** is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).
+
+The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
 ### Shortcuts
 
-{{< figure src="jupyter-shortcuts.gif" width="100%" class="text-center" attr="Jupyter shortcuts - View and edit">}}
+Other good-to-know standard short-cuts are:
+
+* Only in command mode:
+   * Create new cell above: <kbd>A</kbd>
+   * Create new cell below: <kbd>B</kbd>
+   * Cut cell: <kbd>X</kbd>
+   * Copy cell: <kbd>C</kbd>
+   * Paste cell: <kbd>V</kbd>
+   * Delete cell: <kbd>D</kbd>+<kbd>D</kbd>
+   * Toggle sidebar: <kbd>Ctrl</kbd>+<kbd>B</kbd>
+   * Toggle line-numbers: <kbd>Ctrl</kbd>+<kbd>L</kbd> 
+* Single-document mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
+* Show documentation: <kbd>Alt</kbd>+<kbd>Tab</kbd> (used when inside function)
+
+Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab copy wrtie the followng:
+
+```
+{
+    "runmenu:restart-and-run-all": {
+      "selector": "[data-jp-code-runner]",        
+      "command": "runmenu:restart-and-run-all",
+      "keys": [
+        "Ctrl Space"
+      ]
+    },     
+    "notebook:move-cell-up": {
+      "selector": ".jp-Notebook:focus",
+      "command": "notebook:move-cell-up",
+      "keys": [
+        "Ctrl ArrowUp"
+      ]
+    },
+    "notebook:move-cell-down": {
+      "selector": ".jp-Notebook:focus",
+      "command": "notebook:move-cell-down",
+      "keys": [
+        "Ctrl ArrowDown"
+      ]
+    }, 
+    "application:toggle-presentation-mode": {
+      "selector": "body",
+      "command": "application:toggle-presentation-mode",
+      "keys": [
+        "Ctrl P"
+      ]
+    } 
+}
+```
+
+You now have access to the following short-cuts:
+
+1. Restart kernal and run all cells: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
+2. Toggle presentation mode: <kbd>Ctrl</kbd>+<kbd>P</kbd>
+3. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
+4. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
+

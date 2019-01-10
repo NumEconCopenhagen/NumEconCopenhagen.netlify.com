@@ -13,10 +13,10 @@ menu:
     - name: "Guides"
       url: "/guides/"
   menu2:
-    - name: "Course Plan"
+    - name: "Course plan"
       url: "/course-plan/"
   menu3:
-    - name: "Github"
+    - name: "GitHub"
       url: "https://github.com/NumEconCopenhagen"
       weight: 10
     - name: "NumEcon"

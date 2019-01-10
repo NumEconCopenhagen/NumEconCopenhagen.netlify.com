@@ -28,7 +28,7 @@ To follow this course you need:
 In the first set of guides you learn to:
 
 1. [Installing Python and VSCode](/guides/python-setup)
-2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](/guides/markdown-basics))
+2. [Running Python in JupyterLab](/guides/jupyterlab) (see also: [Writing markdown](/guides/markdown))
 3. [Running Python in VSCode](/guides/vscode-basics) (see also: [Debugging in VSCode](/guides/vscode-debug))
 
 In the second set of guides you learn to search for and ask questions:

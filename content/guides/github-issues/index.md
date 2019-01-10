@@ -1,7 +1,8 @@
 ---
 title: "Asking questions using GitHub Issues"
 ---
-Basically, a _GitHub Issue_ is a way of communicating a bug, request or something else related to a specific project hosted on GitHub.
+
+If you have a question, always try to find an answer by searching on Google first, [see this guide](/guides/searching). If you can still not find an answer, you can ask it in the course forum using a _GitHub Issue_. Basically, a _GitHub Issue_ is a way of communicating a bug, request or something else related to a specific project hosted on GitHub.
 
 ### Creating a new issue
 To create a _GitHub Issue_ follow these steps:
@@ -16,8 +17,8 @@ To create a _GitHub Issue_ follow these steps:
 
 ### Commenting on an issue
 
-We are in this together, so please help with answering your fellow students questions. But remember to be polite! 
+We are in this together, so please help with answering your fellow students questions. But remember to be specific and polite! 
 
 ### Quality issues
 
-Please read this [post](https://medium.com/nycplanninglabs/writing-a-proper-github-issue-97427d62a20f) that explains how to create a quality issue.
+Please [read this post](https://medium.com/nycplanninglabs/writing-a-proper-github-issue-97427d62a20f) that explains how to create a quality issue.

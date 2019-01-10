@@ -2,9 +2,9 @@
 title: "Writing markdown"
 ---
 The guide is written by Adam Pritchard.
-
 ---
-This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+
+The text cells in Jupyter notebooks are formatted in the markdown language (see [Running Python in JupyterLab](/guides/jupyterlab)). This guide is intended as a quick reference and showcase of how to write text in markdown. For more complete information, see [John Gruber's original specification](http://daringfireball.net/projects/markdown/) and the [GitHub-flavored markdown info page](http://github.github.com/github-flavored-markdown/).
 
 ##### Table of Contents  
 [Headers](#headers)  

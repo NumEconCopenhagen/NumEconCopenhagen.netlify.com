@@ -20,22 +20,16 @@ A step-by-step guide is provided below.
 2. Run the installer (custom settings are fine)
 3. When asked choose "Install Microsoft VSCode"
 
-**Step 1b: Extensions for Anaconda** (optional)
-
-*This just installs some extentions, which are nice, but are not necessary.*
+**Step 1b: JupyterLab (with extensions)**
 
 1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows, you might need to run it as administrator^[This is done by right-clicking the program icon and choosing `Run as administrator`.])
-2. Run: `conda install -c conda-forge jupyter_contrib_nbextensions`
-3. Run: `jupyter notebook` (this opens a browser window)
-4. In the `Nbextensions` tab we in particular recoommend:
-    * Code prettify
-    * Codefolding (*can give problems with the gutter*, add delay in settings)
-    * Collapsible Headings     
-    * Equation Auto Numbering
-    * Execture Time
-    * Move selected cell
-    * Split Cells Notebook
-    * Table of Contents(2)
+2. Run: `conda install -c conda-forge jupyterlab`
+3. Run: `conda install -c conda-forge nodejs`
+4. Run: `conda install -c conda-forge ipympl`
+5. Run: `jupyter labextension install @jupyterlab/toc`
+6. Run: `jupyter labextension install @jupyter-widgets/jupyterlab-manager`
+7. Run: `jupyter labextension install jupyter-matplotlib`
+
 
 **Step 1c: Extensions for VSCode**
 
@@ -61,7 +55,7 @@ A step-by-step guide is provided below.
 
 # Next guide
 
-[Run Python in Jupyter Notebook](/guides/jupyter-notebook)
+[Running Python in JupyterLab](/guides/jupyter-lab)
 
 <br>
   

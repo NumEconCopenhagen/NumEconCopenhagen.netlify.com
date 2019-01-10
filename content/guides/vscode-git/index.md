@@ -14,7 +14,13 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
     
 **New repository?:** Create it online at https://github.com/
 
-**Skip if first time user:** If you get a **merge conflict**:
+**Note:** To avoid merge conflicts always begin by downloading existing changes, before you make new ones.
+
+### Merge conflicts
+
+*Skip this if first time user of Git*
+
+If you get a **merge conflict**:
 
 1. Resolve conflicts by point-and-click (don't save the file)
 2. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: stage all changes`
@@ -24,6 +30,6 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 6. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: commit all`
 7. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`
 
-Problems? You can undo last commit with `git: undo last commit`
+**Problems?** You can undo last commit with `git: undo last commit`
 
-To avoid merge conflicts also begin by downloading existing changes.
+**Worst case:** Make a new clone of the repository and redo the changes.

@@ -55,7 +55,7 @@ A step-by-step guide is provided below.
 
 # Next guide
 
-[Running Python in JupyterLab](/guides/jupyter-lab)
+[Running Python in JupyterLab](/guides/jupyterlab)
 
 <br>
   

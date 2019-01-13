@@ -22,7 +22,7 @@ Hopefully, you will experience that you browser automatically opens a new tab lo
 In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
 
 1. Code cells with Python code
-2. Markdown cells with text (see the guide [Writing markdown](\guides\markdown))
+2. Markdown cells with text (see the guide [Writing markdown](/guides/markdown))
 
 When inside a cell you are in `edit mode`, when not you are in `command mode`.
 
@@ -63,7 +63,7 @@ Other good-to-know standard short-cuts are:
 * Single-document mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
 * Show documentation: <kbd>Alt</kbd>+<kbd>Tab</kbd> (used when inside function)
 
-Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab copy wrtie the followng:
+Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab copy in the followng:
 
 ```
 {
@@ -105,3 +105,6 @@ You now have access to the following short-cuts:
 3. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
 4. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
 
+# Next guide
+
+[Running Python in VSCode](/guides/vscode-basics)

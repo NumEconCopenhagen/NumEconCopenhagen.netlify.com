@@ -10,10 +10,10 @@ All students attending the course will receive 6 months of free access to **[Dat
 
 The course is centered arround four GitHub repositories:
 
-1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master))
-2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master))
-3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master)) 
-4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics ([interactive version](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEcon/master))
+1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master?urlpath=lab)
+2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master?urlpath=lab)
+3. **[snippets-2019](https://github.com/NumEconCopenhagen/snippets-2019)**: Useful code examples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/snippets-2019/master?urlpath=lab)
+4. **[NumEcon](https://github.com/NumEconCopenhagen/numecon)**: Package for numerical economics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/NumEconNotebooks/master?urlpath=lab)
 
 The **course responsible** is [Jeppe Druedahl](http://web.econ.ku.dk/druedahl/), Assistant Professor, University of Copenhagen, [Center for Economic Behavior and Inequality](https://www.econ.ku.dk/cebi). 
 

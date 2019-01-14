@@ -3,7 +3,7 @@ title: "Running Python in VSCode"
 markup: "mmark"
 ---
 
-This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and only use Jupyter Notebooks for presenting the results.
+This is a short guide on how to use **Visual Studio Code** (VSCode). Our recommendation is that you for larger projects write your functions and classes as modules in VSCode, and only use Jupyter notebooks for presenting the results.
 
 ## 1. Execute Python file
 
@@ -23,15 +23,14 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 ## 2. Interactive session
 
- i. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
- ii. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
- iii. In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
- iv.Done? Kill the terminal by pressing the trash can icon
-*Note:* You can also select multiple lines to run.
+ 1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
+ 2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
+ 3. In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
+ 4. Done? Kill the terminal by pressing the trash can icon
+ 
+ *Note:* You can also select multiple lines to run.
 
-## 3. Additional features
-
-Find errors in your code:
+## 3. Find errors in your code
 
 1. **Write code**: Write the following lines of code:
 
@@ -43,9 +42,12 @@ Find errors in your code:
 
 2. Save file: <kbd>Ctrl</kbd>+<kbd>S</kbd>
 3. Show all errors: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> 
-4. Find next error: <kbd>F8</kbd> 
+4. Move the cursor to a line in the python file
+5. Find next error: <kbd>F8</kbd> 
 
-Use short cuts for changing view:
+## 4. Short-cuts
+
+Use short-cuts for _changing view_:
 
 * New window: <kbd>Ctrl</kbd>+<kbd>N</kbd>
 * Open window: <kbd>Ctrl</kbd>+<kbd>O</kbd>
@@ -55,20 +57,27 @@ Use short cuts for changing view:
 * Go to symbol: <kbd>F12</kbd> (just peak <kbd>Alt</kbd>+<kbd>F12</kbd>)
 * Go to line: <kbd>Ctrl</kbd>+<kbd>G</kbd>
 * Zoom: <kbd>Ctrl</kbd>+<kbd>+</kbd> / <kbd>Ctrl</kbd>+<kbd>-</kbd>
-* Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd>,<kbd>Ctrl</kbd>+<kbd>Z</kbd> 
+* Zen mode: <kbd>Ctrl</kbd>+<kbd>K</kbd>,<kbd>Z</kbd> 
 
-Use smart short cuts for edditing:
+Use smart short cuts for _editing_:
 
 * Move current line: <kbd>Alt</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
 * Copy current line: <kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>&uparrow;</kbd> / <kbd>&downarrow;</kbd>
 * Cut current line: <kbd>Ctrl</kbd>+<kbd>X</kbd>
+* Indent line: <kbd>Tab</kbd>    
+* Deindent line: <kbd>Shift</kbd>+<kbd>Tab</kbd>    
 * Fold/unfold:
     * single block: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>´</kbd>  / <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>å</kbd>
     * all: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>1</kbd> / <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>J</kbd>
 * Toggle commment: <kbd>Ctrl</kbd>+<kbd>'</kbd> 
 * Select multiple occurances: <kbd>Ctrl</kbd>+<kbd>D</kbd> (undo: <kbd>Ctrl</kbd>+<kbd>U</kbd>)
 * Select columns: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>Alt</kbd>
-    
+
 **Change settings** <kbd>Ctrl</kbd>+<kbd>,</kbd>
 
 **Change short cuts?** <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>S</kbd>
+
+## 5. More infromation
+
+* [Debugging in VSCode](/guides/vscode-debug)
+* [Official guides from Microsoft](https://code.visualstudio.com/docs/getstarted/introvideos)

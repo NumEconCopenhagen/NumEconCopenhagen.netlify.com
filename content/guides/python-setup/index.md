@@ -22,26 +22,21 @@ A step-by-step guide is provided below.
 
 **Step 1b: JupyterLab (with extensions)**
 
-1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows, you might need to run it as administrator^[This is done by right-clicking the program icon and choosing `Run as administrator`.])
-2. Run: `conda install -c conda-forge jupyterlab`
-3. Run: `conda install -c conda-forge nodejs`
-4. Run: `conda install -c conda-forge ipympl`
-5. Run: `jupyter labextension install @jupyterlab/toc`
-6. Run: `jupyter labextension install @jupyter-widgets/jupyterlab-manager`
-7. Run: `jupyter labextension install jupyter-matplotlib`
-
+1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
+2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
+3. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd>
 
 **Step 1c: Extensions for VSCode**
 
 1. Open **VSCode**
 2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-3. Run `Extensions: Install Extensions`
-4. Search for and install the following extensions (if not already installed):
+3. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>
+4. In the left panel: Search for and install the following extensions (if not already installed):
     * Anaconda Extensions Pack
     * Python  
 5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-6. Run `Python: Select Interpreter` and choose the Anaconda distribution you installed above
-7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `Terminal: Select Default Shell` and choose `Command Prompt`
+6. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
+7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
 <br>
 
@@ -56,7 +51,3 @@ A step-by-step guide is provided below.
 # Next guide
 
 [Running Python in JupyterLab](/guides/jupyterlab)
-
-<br>
-  
-#### Notes

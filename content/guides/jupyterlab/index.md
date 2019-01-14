@@ -11,7 +11,7 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 _[For installation of JupyterLab see [here](/guides/python-setup/)]_
 
 1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
-2. Run: `jupyter lab`
+2. Paste in `jupyter lab` + <kbd>Enter</kbd>
 
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
@@ -39,7 +39,7 @@ The most important notebook commands are:
 In the left-panel on JupyterLab you can e.g. access:
 
 1. File Browser: To open existing notebooks anywhere on your computer.
-2. Running Terminal and Kernels: To shutdown terminals and kernels.
+2. Running Terminals and Kernels: To shutdown terminals and kernels.
 3. Command Palette: To see a list of possible commands.
 4. Table of Contents: To see links to sections based on headings (#, ##, ###).
 
@@ -59,11 +59,11 @@ Other good-to-know standard short-cuts are:
    * Paste cell: <kbd>V</kbd>
    * Delete cell: <kbd>D</kbd>+<kbd>D</kbd>
    * Toggle sidebar: <kbd>Ctrl</kbd>+<kbd>B</kbd>
-   * Toggle line-numbers: <kbd>Ctrl</kbd>+<kbd>L</kbd> 
 * Single-document mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
-* Show documentation: <kbd>Alt</kbd>+<kbd>Tab</kbd> (used when inside function)
-
-Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab copy in the followng:
+* Autocomplete (when writing code): <kbd>Tab</kbd>
+* Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)
+  
+Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
 
 ```
 {

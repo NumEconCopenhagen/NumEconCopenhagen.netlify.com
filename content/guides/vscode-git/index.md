@@ -14,11 +14,11 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
     
 **New repository?:** Create it online at https://github.com/
 
-**Note:** To avoid merge conflicts always begin by downloading existing changes, before you make new ones.
+<p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones.</p>
 
 ### Merge conflicts
 
-*Skip this if first time user of Git*
+*Skip this if you are a first time user of Git*
 
 If you get a **merge conflict**:
 

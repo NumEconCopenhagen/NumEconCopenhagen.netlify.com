@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1"
+title: "Exercises 4 - Problem set 1: Solving the consumer problem"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/exercises-2019/master/PS1/exercise.ipynb"
 weight: 10
 ---

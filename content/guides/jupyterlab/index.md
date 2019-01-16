@@ -59,6 +59,7 @@ Other good-to-know standard short-cuts are:
    * Paste cell: <kbd>V</kbd>
    * Delete cell: <kbd>D</kbd>+<kbd>D</kbd>
    * Toggle sidebar: <kbd>Ctrl</kbd>+<kbd>B</kbd>
+   * Restart kernel: <kbd>0</kbd>+<kbd>0</kbd>
 * Single-document mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd>
 * Autocomplete (when writing code): <kbd>Tab</kbd>
 * Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)

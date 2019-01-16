@@ -4,7 +4,7 @@ title: "Running Python in JupyterLab"
 
 JupyterLab is an awesome way of combining text and code in the same framework. This is a short guide on how to use JupyterLab. If you haven't seen JupyterLab before it looks like this: 
 
-[INSERT GIF]
+{{< figure src="jupyterlab.gif" width="75%" class="text-center">}}
 
 ### Starting JupyterLab
 
@@ -15,7 +15,7 @@ _[For installation of JupyterLab see [here](/guides/python-setup/)]_
 
 Hopefully, you will experience that you browser automatically opens a new tab looking something like this:
 
-[INSERT GIF]
+{{< figure src="jupyterlab-open.gif" width="75%" class="text-center">}}
 
 ### Creating a notebook
 
@@ -46,6 +46,12 @@ In the left-panel on JupyterLab you can e.g. access:
 The **interface of JupyterLab** is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/interface.html).
 
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
+
+### Variable inspector
+A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices.
+It looks like this:
+
+{{< figure src="jupyterlab-variable-inspector.gif" width="75%" class="text-center">}}
 
 ### Shortcuts
 

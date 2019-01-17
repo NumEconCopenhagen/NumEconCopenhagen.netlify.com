@@ -25,6 +25,7 @@ A step-by-step guide is provided below.
 1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
 2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
 3. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd>
+4. Paste in `jupyter labextension install https://github.com/lckr/jupyterlab-variableInspector` + <kbd>Enter</kbd>
 
 **Step 1c: Extensions for VSCode**
 

@@ -4,14 +4,14 @@ theme: "NumEconCopenhagenTheme"
 
 menu:
   menu1:
-    - name: "Exercises"
-      url: "/exercises/"
+    - name: "Guides"
+      url: "/guides/"  
       weight: 10
     - name: "Lectures"
       url: "/lectures/"
-      weight: 20
-    - name: "Guides"
-      url: "/guides/"
+      weight: 20      
+    - name: "Exercises"
+      url: "/exercises/"
   menu2:
     - name: "Course plan"
       url: "/course-plan/"

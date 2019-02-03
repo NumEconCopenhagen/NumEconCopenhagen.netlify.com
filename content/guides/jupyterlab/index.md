@@ -99,18 +99,26 @@ Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl
       "selector": "body",
       "command": "application:toggle-presentation-mode",
       "keys": [
-        "Ctrl P"
+        "Ctrl Shift P"
       ]
-    } 
+    }, 
+    "notebook:line-numbering": {
+      "selector": ".jp-Notebook.jp-mod-commandMode",        
+      "command": "viewmenu:line-numbering",
+      "keys": [
+        "Ctrl Shift K"
+      ]
+    }    
 }
 ```
 
 You now have access to the following short-cuts:
 
 1. Restart kernal and run all cells: <kbd>Ctrl</kbd>+<kbd>Space</kbd>
-2. Toggle presentation mode: <kbd>Ctrl</kbd>+<kbd>P</kbd>
-3. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
-4. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
+2. Toggle presentation mode: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
+3. Toggle line numbers: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>
+4. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
+5. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
 
 # Next guide
 

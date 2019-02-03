@@ -8,7 +8,7 @@ We will mostly use the **[Python](https://www.python.org/)** programming languag
 
 All students attending the course will receive 6 months of free access to **[DataCamp](https://www.datacamp.com/home)** (you will receive an e-mail regarding this). In the first classes you will follow online courses at DataCamp to learn the basics of Python. For details, see the **[course plan](/course-plan/)**.
 
-The course is centered arround four GitHub repositories:
+The course is centered arround four GitHub repositories in **[NumEconCopenhagen](https://github.com/NumEconCopenhagen)**:
 
 1. **[lectures-2019](https://github.com/NumEconCopenhagen/lectures-2019)**: Slides and code for the lectures [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/lectures-2019/master?urlpath=lab)
 2. **[exercises-2019](https://github.com/NumEconCopenhagen/exercises-2019)**: Problem sets with solutions [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NumEconCopenhagen/exercises-2019/master?urlpath=lab)

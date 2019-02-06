@@ -106,6 +106,5 @@ Some recommended online ressources for learning programming relevant to economic
 3. [Econ-Ark](https://econ-ark.org/)
 4. [Python for Econometrics](https://www.kevinsheppard.com/Python_for_Econometrics)
 5. [Python for Computational Science and Engineering](http://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
-6. [Numerical Methods in Engineering with Python](https://doc.lagout.org/programmation/python/Numerical%20Methods%20in%20Engineering%20with%20Python%203%20%5BKiusalaas%202011-02-21%5D.pdf)
-7. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
-8. [Dynamic Programming](https://absalon.ku.dk/courses/25988)
+6. [Online MATLAB course for students of Economics](https://absalon.ku.dk/courses/25988/pages/online-matlab-course-for-students-of-economics)
+7. [Dynamic Programming](https://absalon.ku.dk/courses/25988)

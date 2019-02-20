@@ -61,7 +61,7 @@ On this page you find:
 
 ### Week 5: Fundamentals: Workflow and debugging
 
-**Lecture::** You will be learn how to write modules and run scripts from a **terminal** (in VS Code). You will learn how to **structure** and **comment** your code, and document it for later use. You will learn how to share your code with others through **Git**. Finally, we will discuss **debugging**, both pre-emptively (print, asserts, try/except) and when everything is on fire (debugger). We will also discuss the importance of a **variables scope** (local, global, non-local).
+**Lecture::** You will learn how to **structure** and **comment** your code and **document** it for later use. You will learn how to **debug** your code using print, **assert** and try/except statements. You will learn how to write **modules** and **run scripts** from a terminal in **VSCode** and how to share your code with others through **Git**.
 
 **Class:** Problem Set 2: Finding the Walras equilibrium in a multi-agent economy 
 

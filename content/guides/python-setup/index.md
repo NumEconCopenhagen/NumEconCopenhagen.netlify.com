@@ -43,8 +43,13 @@ A step-by-step guide is provided below. <br>
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
+<<<<<<< HEAD
 4. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (close and open it again if already open) 
 5. Paste in `jupyter labextension install https://github.com/lckr/jupyterlab-variableInspector` + <kbd>Enter</kbd>
+=======
+4. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (close it if already open) 
+5. Paste in `jupyter labextension install @lckr/jupyterlab_variableinspector` + <kbd>Enter</kbd>
+>>>>>>> 19b0e9cb28343c05672f3d664e21a99d5976c3e2
 
 ## Next guide
 

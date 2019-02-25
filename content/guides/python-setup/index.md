@@ -8,12 +8,12 @@ To follow this course you need:
 2. A **text editor** (we will use [VSCode](https://code.visualstudio.com/), alternatives are [Sublime](https://www.sublimetext.com/), [Atom](https://atom.io/), and [PyCharm](https://www.jetbrains.com/pycharm/))
 3. A **git enviroment**
 
-A step-by-step guide is provided below.
-
-<br>
+A step-by-step guide is provided below. <br>
   
-# Step 1: Install Anaconda and VSCode
-<br>
+## Step 1: Install Anaconda and VSCode
+
+**Note:** The installation might fail if your computer username contains special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
+
 **Step 1a: Main**
 
 1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
@@ -38,19 +38,14 @@ A step-by-step guide is provided below.
 6. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
 7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
-<br>
-
-# Step 2: Install Git
+## Step 2: Install Git
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/
 3. Run installer with all the custom settings
-4. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (close it if already open) 
+4. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows) (close and open it again if already open) 
 5. Paste in `jupyter labextension install https://github.com/lckr/jupyterlab-variableInspector` + <kbd>Enter</kbd>
 
-
-<br>
-
-# Next guide
+## Next guide
 
 [Running Python in JupyterLab](/guides/jupyterlab)

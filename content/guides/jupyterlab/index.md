@@ -6,9 +6,9 @@ JupyterLab is an awesome way of combining text and code in the same framework. T
 
 {{< figure src="jupyterlab.gif" width="75%" class="text-center">}}
 
-### Starting JupyterLab
+## 1. Starting JupyterLab
 
-_[For installation of JupyterLab see [here](/guides/python-setup/)]_
+_[For installation of JupyterLab see step 1b [here](/guides/python-setup/)]_
 
 1. Open the program **Terminal** (Mac) or **Anaconda Prompt** (Windows)
 2. Paste in `jupyter lab` + <kbd>Enter</kbd>
@@ -17,7 +17,7 @@ Hopefully, you will experience that you browser automatically opens a new tab lo
 
 {{< figure src="jupyterlab-open.gif" width="75%" class="text-center">}}
 
-### Creating a notebook
+## 2. Creating a notebook
 
 In the *Launcher* tab you create a new Jupyter notebook by pressing the *Python 3* bottom under *Notebook*. Notebooks consists of two types of cells:
 
@@ -47,13 +47,12 @@ The **interface of JupyterLab** is explained in detail [here](https://jupyterlab
 
 The use of **Jupyter notebooks** in JupyterLab is explained in detail [here](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html).
 
-### Variable inspector
-A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices.
-It looks like this:
+## 3. Variable inspector
+A very nice feature of JupyterLab is that it has a variable inspector that visualize vectors, DataFrames and matrices. You can open it by right-clicking in a notebook and choose "Open Variable Inspector". It looks like this:
 
 {{< figure src="jupyterlab-variable-inspector.gif" width="75%" class="text-center">}}
 
-### Shortcuts
+## 4. Shortcuts
 
 Other good-to-know standard short-cuts are:
 
@@ -70,7 +69,7 @@ Other good-to-know standard short-cuts are:
 * Autocomplete (when writing code): <kbd>Tab</kbd>
 * Show tooltip: <kbd>Shift</kbd>+<kbd>Tab</kbd> (used when inside function)
   
-Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
+**Advanced:** Additionally, you can create customized short-cuts. Open settings with <kbd>Ctrl</kbd>+<kbd>,</kbd>. In the `User Overrides` tab paste in the followng:
 
 ```
 {
@@ -120,6 +119,6 @@ You now have access to the following short-cuts:
 4. Move cell up: <kbd>Ctrl</kbd>+<kbd>&uparrow;</kbd> (only in command mode)
 5. Move cell down: <kbd>Ctrl</kbd>+<kbd>&downarrow;</kbd> (only in command mode)
 
-# Next guide
+## Next guide
 
 [Running Python in VSCode](/guides/vscode-basics)

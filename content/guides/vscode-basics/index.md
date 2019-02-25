@@ -77,7 +77,7 @@ Use smart short cuts for _editing_:
 
 **Change short cuts?** <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>S</kbd>
 
-## 5. More infromation
+## More infromation
 
 * [Debugging in VSCode](/guides/vscode-debug)
 * [Official guides from Microsoft](https://code.visualstudio.com/docs/getstarted/introvideos)

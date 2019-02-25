@@ -4,7 +4,22 @@ title: "Using git in VSCode"
 
 This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). The purpose of git is to allow you to easily share your code with collaborators and track the changes each of you make.
 
-1. **Clone repository**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository
+**Note:** We assume you have already signed up for GitHub and installed git on your computer. Otherwise, see step 2 in this [guide](/guides/python-setup/).
+
+## 1. Create your first repository
+
+1. Go to [GitHub.com](https://github.com/) and sign in
+2. In the lefthand sidebar click on:<br>
+    {{< figure src="new.png" width="5%" >}}
+3. Choose a repository name
+4. In *Add .gitignore* choose *Python*
+5. In *Add a license* choose e.g. *MIT License*
+6. Click *Create repository*
+7. Copy the URL  
+
+## 2. Clone your first repostiory
+
+1. **Clone repository**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository (from e.g. step 1)
 2. **Download existing changes**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`
 3. **Upload new changes**: 
   
@@ -12,13 +27,11 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
     2. Write commit message
     3. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync`
     
-**New repository?:** Create it online at https://github.com/
+<p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones. This reduces the risk of merge conflicts, where you and your collaborators have changed the same lines of code</p>
 
-<p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones.</p>
+## 3. Merge conflicts
 
-### Merge conflicts
-
-*Skip this if you are a first time user of Git*
+*Skip this if you are a first time user of git*
 
 If you get a **merge conflict**:
 
@@ -32,4 +45,4 @@ If you get a **merge conflict**:
 
 **Problems?** You can undo last commit with `git: undo last commit`
 
-**Worst case:** Make a new clone of the repository and redo the changes.
+**Worst case:** Make a new clone of the repository and redo the changes file-by-file.

@@ -17,6 +17,8 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
 6. Click *Create repository*
 7. Copy the URL  
 
+{{< figure src="createRepo.gif" width="100%" class="text-center" >}}
+
 ## 2. Clone your first repostiory
 
 1. **Clone repository**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: clone` + write link to repository (from e.g. step 1)
@@ -28,6 +30,8 @@ This is a short guide on how to use **git** in **Visual Studio Code** (VSCode). 
     3. <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + run `git: sync` (choose "OK, don't show again" if there is a pop-up)
     
 <p style="font-size: 20px;"><strong>IMPORTANT NOTE</strong>: To avoid merge conflicts always download existing changes, before you make new ones. This reduces the risk of merge conflicts, where you and your collaborators have changed the same lines of code</p>
+
+{{< figure src="GitCloneCommit.gif" width="100%" class="text-center" >}}
 
 ## 3. Merge conflicts
 

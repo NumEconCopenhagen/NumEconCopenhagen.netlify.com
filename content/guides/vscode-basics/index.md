@@ -7,6 +7,8 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 ## 1. Execute Python file
 
+**Note**: In the bottom-left it should say *Python 3.x 64-bit {'base': conda}*. Else click on it to choose this.
+
 The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 
 1. **Open folder to work in**: <kbd>Ctrl</kbd>+<kbd>K</kbd>, <kbd>Ctrl</kbd>+<kbd>O</kbd>
@@ -23,10 +25,9 @@ The following step-by-step guide show you how to create a file, write some Pytho
 
 ## 2. Interactive session
 
- 1. Move cursor to the first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
- 2. Move cursor to the second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
- 3. In the terminal window write `print(message)` and run with <kbd>Enter</kbd>
- 4. Done? Kill the terminal by pressing the trash can icon
+ 1. Selecet first line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (interactive session launched)
+ 2. Select second line of code + <kbd>Shift</kbd>+<kbd>Enter</kbd> (code is executed)
+ 3. In the interactive window write `print(message)` and run with <kbd>Shift+Enter</kbd>
  
  *Note:* You can also select multiple lines to run.
 

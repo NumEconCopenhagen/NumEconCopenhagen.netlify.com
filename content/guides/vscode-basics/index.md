@@ -7,7 +7,6 @@ This is a short guide on how to use **Visual Studio Code** (VSCode). Our recomme
 
 ## 1. Execute Python file
 
-**Note**: In the bottom-left it should say *Python 3.x 64-bit {'base': conda}*. Else click on it to choose this.
 
 The following step-by-step guide show you how to create a file, write some Python code, and exectute it.
 
@@ -22,6 +21,8 @@ The following step-by-step guide show you how to create a file, write some Pytho
     {{< / highlight >}}
 
 5. **Exectue file**: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + `Python: Run Python File in Terminal`
+
+**Note**: The bottom-left corner should say *Python 3.x 64-bit {'base': conda}* when you have a .py file open. Else click on what ever else it says and choose this. 
 
 ## 2. Interactive session
 

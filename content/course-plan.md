@@ -67,13 +67,13 @@ On this page you find:
 
 ### Week 6: Working with Data: Load/save and structure data
 
-**Lecture:** YYou will learn to **load and save data** both to and from offline sources (e.g. CSV or Excel). You will learn about **pandas series and dataframes**, and how to clean, rename, structure and index your data. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
+**Lecture:** You will learn to **load and save data** both to and from offline sources (e.g. CSV or Excel). You will learn about **pandas series and dataframes**, and how to clean, rename, structure and index your data. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
 
 **Class:** Problem Set 3: Loading and structuring data from Denmark Statistics
 
 ### Week 7: Working with Data: Basic data analysis
 
-**Lecture:** You will learn how to work with online data and produce **summary statistics** (tables, historgrams, Lorenz curves etc.). You will learn to estimate simple **statistical models** on your data (linear regression) and see a **machine learning** example. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
+**Lecture:** You will learn how to **combine** (join and concatenate) datasets, **download online datasets** (throguh an API), and use **split-apply-combine** to calculate group-level statistics and make group-level plots. *Taugth by [Anders Munk-Nielsen](http://web.econ.ku.dk/munk-nielsen/default.htm)*.
 
 **Class**: Problem Set 4: Analyzing data form Denmark Statistics
 

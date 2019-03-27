@@ -85,9 +85,9 @@ On this page you find:
 
 ### Week 9: Algorithms: Searching and sorting
 
-**Lecture:** You will learn how to write **pseudo code** and a bit about **computational complexity** (big-O notion). You will learn learn about **functional recursion** and some illustrative **search** (sequential, binary, tree, hash) and **sort** (bubble, insertion, quick) algorithms.
+**Lecture:** You will learn how to write **pseudo code** and a bit about **computational complexity** (big-O notion). You will learn learn about **functional recursion** and some illustrative **search** (sequential, binary) and **sort** (bubble, insertion, quick) algorithms.
 
-**Class**: Problem Set 5: Writing your own searching and sorting algorithms
+**Class**: Problem Set 5: Writing your own algorithms
 
 ### Week 10: Algorithms: Solving equations (numerically and symbolically)
 

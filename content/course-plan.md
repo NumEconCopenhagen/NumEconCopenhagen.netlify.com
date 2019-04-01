@@ -93,7 +93,7 @@ On this page you find:
 
 **Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
 
-**Class**: Problem Set 6: Solving the Solow Model + feedback on your data analysis project
+**Class**: Problem Set 6: Solving the Solow Model
 
 ### Week 11: Algorithms: Numerical optimization
 

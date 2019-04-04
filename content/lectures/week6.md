@@ -1,5 +1,5 @@
 ---
-title: "Lecture 6 - Load/save and structure data"
+title: "Lecture 6 - Working with Data: Load/save and structure data"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/lectures-2019/master/06/Load_save_and_structure_data.ipynb"
 weight: 30
 ---

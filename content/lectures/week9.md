@@ -1,5 +1,5 @@
 ---
-title: "Lecture 9 - Solving equations"
+title: "Lecture 9 - Algorithms: Solving equations"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/lectures-2019/master/09/Solving_equations.ipynb"
 weight: 30
 ---

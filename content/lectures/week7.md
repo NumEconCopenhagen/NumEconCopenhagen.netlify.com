@@ -1,5 +1,5 @@
 ---
-title: "Lecture 7 - Basic data analysis"
+title: "Lecture 7 - Working with Data: Basic data analysis"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/lectures-2019/master/07/Basic_data_analysis.ipynb"
 weight: 30
 ---

@@ -19,6 +19,6 @@ In the third set of guides you learn how to use git:
 2. [Submitting to snippets-2019](/guides/snippets)
 3. [Creating an interactive version of your code](/guides/mybinder)
 
-Extra guides
+Extra guides:
 
 1. [Creating a python package](/guides/python-packaging)

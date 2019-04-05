@@ -89,7 +89,7 @@ On this page you find:
 
 **Class**: Problem Set 5: Writing your own algorithms
 
-### Week 10: Algorithms: Solving equations (numerically and symbolically)
+### Week 10: Algorithms: Solving equations
 
 **Lecture:** You will learn about working with matrices and linear algebra (**scipy.linalg**), including solving systems of linear equations. You will learn to find roots of linear and non-linear equations both numerically (**scipy.optimize**) and symbolically (**sympy**).
 

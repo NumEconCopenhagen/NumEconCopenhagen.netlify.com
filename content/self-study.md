@@ -2,7 +2,7 @@
 title: "Self-study"
 ---
 
-You can also go through this course as self-study. If you have never programmet before, the [DataCamp](https://www.datacamp.com/home) courses is the most gentle introduction to Python you can get. It is worth paying for. After that:
+You can also go through this course as self-study. If you have never programmed before, the [DataCamp](https://www.datacamp.com/home) courses is the most gentle introduction to Python you can get. It is worth paying for. After that:
 
 1. Read the [introduction slides](/lectures/week1_slides/).
 * Follow the first set of [guides](/guides/).
@@ -14,7 +14,7 @@ You can also go through this course as self-study. If you have never programmet 
 
 1. Open VScode
 * Pres <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> 
-* Write `git: clone` + <kbd>Enter</kbd>
-* Write `https://github.com/NumEconCopenhagen/lectures-2019` + <kbd>Enter</kbd> (choose location)
-* Write `https://github.com/NumEconCopenhagen/exercises-2019` + <kbd>Enter</kbd> (choose location)
+* Paste in `git: clone` + <kbd>Enter</kbd>
+* Paste in `https://github.com/NumEconCopenhagen/lectures-2019` + <kbd>Enter</kbd> (choose location)
+* Paste in `https://github.com/NumEconCopenhagen/exercises-2019` + <kbd>Enter</kbd> (choose location)
  

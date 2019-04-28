@@ -103,13 +103,13 @@ On this page you find:
 
 ### Week 12: Further Perspectives: The need for speed
 
-**Lecture:** You will learn how to time your code and locate its bottlenecks. You will learn how to alleviate such bottlenecks using techniques such as **iterators**, **comprehensions**, **vectorization** and **parallelization**. You will be introduced to how  to use the **Numba** library to speed-up your code. You will hear about the fundamental computational costs of mathematical operations and memory management (caching), and see how to call programs written in **C++** (ctypes) for optimal speed.
+**Lecture:** You will learn how to time your code and locate its bottlenecks. You will learn how to alleviate such bottlenecks using techniques such as **comprehensions**, **generators**, **vectorization** and **parallelization**. You will be introduced to how  to use the **Numba** library to speed-up your code. You will hear about the fundamental computational costs of mathematical operations and memory management (caching), and see how to call programs written in **C++** (ctypes) for optimal speed.
 
-**Class**: Problem Set 8: Comperehension, vectorization and numba
+**Class**: Work on your model analysis project
 
 ### Week 13: Further Perspectives: R and MATLAB
 
-**Lecture:** Two guest lectures will introduce you to the programming languages **R** (*taught by [Rémi Piatek](http://web.econ.ku.dk/piatek/)*) and **MATLAB** (*taught by [Thomas Høgholm Jørgensen](http://www.tjeconomics.com/)*).
+**Lecture:** Two guest lectures will introduce you to the programming languages **MATLAB** (*taught by [Thomas Høgholm Jørgensen](http://www.tjeconomics.com/)*) and **R** (*taught by [Rémi Piatek](http://web.econ.ku.dk/piatek/)*).
 
 **Class:** Work on your model analysis project
 

@@ -1,5 +1,5 @@
 ---
-title: "Lecture 11 - Further perspective: The Need for Speed"
+title: "Lecture 11 - Further perspectives: The Need for Speed"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/lectures-2019/master/11/The_Need_for_Speed.ipynb"
 weight: 11
 ---

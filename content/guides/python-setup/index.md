@@ -10,7 +10,7 @@ To follow this course you need:
 
 A step-by-step guide is provided below. <br>
   
-## Step 1: Install Anaconda and VSCode
+## Step 1: Install Anaconda
 
 **Note:** The installation might fail if your computer username contains a space or special characters (æ, ø, å, ê, â, î, ô, û, ä, ö, ë, ï, ü, ÿ etc.). The easiest solution is to change your username (otherwise you need to install Anaconda on a path *not* containing your user name).
 
@@ -18,7 +18,6 @@ A step-by-step guide is provided below. <br>
 
 1. Download Anaconda Python 3.7 from <https://www.anaconda.com/download/>
 2. Run the installer (custom settings are fine)
-3. When asked choose "Install Microsoft VSCode"
 
 **Step 1b: JupyterLab (with extensions)**
 
@@ -26,19 +25,21 @@ A step-by-step guide is provided below. <br>
 2. Paste in `conda install -c conda-forge jupyterlab nodejs ipympl` + <kbd>Enter</kbd>
 3. Paste in `jupyter labextension install @jupyterlab/toc @jupyter-widgets/jupyterlab-manager jupyter-matplotlib` + <kbd>Enter</kbd>
 
-**Step 1c: Extensions for VSCode**
+## Step 2: VSCode
 
-1. Open **VSCode**
-2. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
-3. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>
-4. In the left panel: Search for and install the following extensions (if not already installed):
+1. Download VSCode from <https://code.visualstudio.com/>
+2. Run the installer (custom settings are fine)
+3. Open **VSCode**
+4. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>
+5. Paste in `Extensions: Install Extensions` + <kbd>Enter</kbd>
+6. In the left panel: Search for and install the following extensions (if not already installed):
     * Anaconda Extensions Pack
     * Python  
-5. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
-6. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
-7. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
+7. Press <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> again
+8. Paste in `Python: Select Interpreter` + <kbd>Enter</kbd> + choose the Anaconda distribution you installed above
+9. If on Windows: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> + paste in `Terminal: Select Default Shell` + <kbd>Enter</kbd> + choose `Command Prompt`
 
-## Step 2: Install Git
+## Step 3: Install Git
 
 1. Go to [GitHub.com](https://github.com/) and sign up
 2. Download git from https://git-scm.com/

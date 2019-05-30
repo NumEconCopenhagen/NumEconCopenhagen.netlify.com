@@ -1,5 +1,5 @@
 ---
-title: "Exam - Problem Set"
+title: "Exam - Suggested Solution"
 github_url: "https://raw.githubusercontent.com/NumEconCopenhagen/lectures-2019/master/exam/solution_2019.ipynb"
 weight: 20
 ---

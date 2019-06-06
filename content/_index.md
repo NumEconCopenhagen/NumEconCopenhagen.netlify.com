@@ -15,7 +15,7 @@ The course is divided into four parts:
 1. **Fundamentals:** Print, plot, optimize, simulate, document, work-flow.
 2. **Working with data:** Fetch, combine, split-apply-combine, visualize.
 3. **Algorithms:** Pseudo code, algorithms, complexity, solve, symbolic.
-4. **Further perspectives:** Comprehensions, generators, vectorization, parallization, timing, Numba, programming langauges (Python vs. R / Julia / MATLAB).
+4. **Further perspectives:** Comprehensions, generators, vectorization, parallization, timing, Numba
 
 For details, see the **[course plan](/course-plan/)**, the lectures **[lectures](/lectures/)**, and the **[exercises](/exercises/)**
 
